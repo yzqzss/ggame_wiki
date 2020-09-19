@@ -2,9 +2,9 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: 2020-09-19T04:48:17.615Z
+date: 2020-09-19T05:05:01.680Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-09T13:42:36.779Z
 ---
 
@@ -28,3 +28,13 @@ dateCreated: 2020-09-09T13:42:36.779Z
 | 人物板块 | /people     |
 | 技术板块 | /technology |
 | 事件板块 | /event      |
+
+联系方式
+--------
+
+任何问题，或者想参与编写该Wiki，都可以联系我 gledos@gmail.com
+
+源码
+----
+
+[这里](https://github.com/gledos/ggame_wiki)可以查看到所有的条目的源码
