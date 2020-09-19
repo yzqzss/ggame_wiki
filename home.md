@@ -2,9 +2,9 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: 2020-09-11T14:43:53.783Z
+date: 2020-09-19T04:48:14.512Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-09T13:42:36.779Z
 ---
 
@@ -12,8 +12,7 @@ dateCreated: 2020-09-09T13:42:36.779Z
 和谐游戏
 ========
 
-这里收集许多的和谐游戏
-
+这里收集许多的和谐游戏的百科
 
 板块分类
 --------
@@ -23,6 +22,9 @@ dateCreated: 2020-09-09T13:42:36.779Z
 | 游戏板块 | /game       |
 | 公司板块 | /company    |
 | 软件板块 | /software   |
+| 硬件板块 | /hardware   |
+| 网站板块 | /website    |
+| 法规板块 | /rule       |
 | 人物板块 | /people     |
 | 技术板块 | /technology |
 | 事件板块 | /event      |
