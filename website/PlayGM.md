@@ -2,7 +2,7 @@
 title: PlayGM
 description: 中国足球经理著名网站
 published: true
-date: 2020-09-21T12:33:45.717Z
+date: 2020-09-21T12:43:31.533Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-21T12:30:20.003Z
@@ -20,6 +20,14 @@ dateCreated: 2020-09-21T12:30:20.003Z
 
 [^2]: [如何看待《足球经理》著名网站爆棚小组（playgm）宣布永久关闭？ - 知乎](https://archive.is/2NhJC)
 
+## 原创研究
+
 因为仅仅是更换域名，所以历史的讨论帖及其账户数据均迁移到了新论坛。
 
-到目前的2020年下半年为止，Playgm 论坛依然没有备案。
+到目前的2020年下半年为止，新的 Playgm.cc 论坛依然没有ICP备案，[^3]不过曾经的 .cn 网站是有 ICP 备案的。[^4]所以网警找站长的理由是没有做网安备案。[^5]
+
+[^3]: [playgm.cc的备案详情](https://archive.is/Zmd5k)
+
+[^4]: [杨斐所属域名playgm.cn备案详细信息](https://archive.is/cMlqI)
+
+[^5]: [[突发事件]国内历史最悠久的FM社区Playgm.cn今天关站(最新消息：境外开站) NGA玩家社区](https://archive.is/WwX7B)
