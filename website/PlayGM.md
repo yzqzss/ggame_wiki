@@ -2,13 +2,13 @@
 title: PlayGM
 description: 中国足球经理著名网站
 published: true
-date: 2020-09-21T12:30:20.003Z
+date: 2020-09-21T12:31:57.103Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-21T12:30:20.003Z
 ---
 
-# 关站警告
+# 2019年3月的关站警告
 
 > 各位会员朋友：今天我们接到了北京网警的相关通知，我们愿意配合网警及政府的工作，现决定永久 Playgm.cn 论坛，方程感谢大家十多年来的陪伴，咱们江湖再见！[^1]
 >
