@@ -1,8 +1,8 @@
 ---
 title: PlayGM
-description: 中国足球经理著名网站
+description: 足球经理著名论坛
 published: true
-date: 2020-09-21T12:48:23.343Z
+date: 2020-09-21T12:49:59.554Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-21T12:30:20.003Z
