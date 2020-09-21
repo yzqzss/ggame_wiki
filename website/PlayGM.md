@@ -2,7 +2,7 @@
 title: PlayGM
 description: 中国足球经理著名网站
 published: true
-date: 2020-09-21T12:31:57.103Z
+date: 2020-09-21T12:33:45.717Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-21T12:30:20.003Z
@@ -21,3 +21,5 @@ dateCreated: 2020-09-21T12:30:20.003Z
 [^2]: [如何看待《足球经理》著名网站爆棚小组（playgm）宣布永久关闭？ - 知乎](https://archive.is/2NhJC)
 
 因为仅仅是更换域名，所以历史的讨论帖及其账户数据均迁移到了新论坛。
+
+到目前的2020年下半年为止，Playgm 论坛依然没有备案。
