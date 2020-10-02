@@ -2,7 +2,7 @@
 title: Pan Piano
 description: 以Cosplay成ACGN角色并用钢琴弹奏该作品的动画音乐为特色的 Youtuber
 published: true
-date: 2020-10-02T14:34:49.633Z
+date: 2020-10-02T14:36:33.012Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-02T13:29:52.213Z
@@ -54,6 +54,10 @@ Pan Piano 在推特上发表了推文，可能数次提到了日台友好
 [【情報】對岸開燒「Pan Piano」辱華　舉報者卻被Bilibili網友嗆爆：想看奶就閉嘴 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20201002141529/https://forum.gamer.com.tw/C.php?bsn=60076&snA=5732889)
 [本想大聲斥責Pan Piano　Bilibili董事長「忍不住訂閱她」　網笑：辱華變乳滑 | 胖丁呷麵 | 鍵盤大檸檬 | ETtoday新聞雲](https://web.archive.org/web/20200620160534/https://www.ettoday.net/dalemon/post/50614)
 [對岸開燒「Pan Piano」辱華　舉報者卻被Bilibili網友嗆爆：想看奶就閉嘴 | 胖丁呷麵 | 鍵盤大檸檬 | ETtoday新聞雲](https://web.archive.org/web/20200826022235/https://www.ettoday.net/dalemon/post/50458)
+
+[Pan Piano 粉丝言论收集 一](https://web.archive.org/web/20201002140546/http://peco-img.uc.cn/image/humor/unk/ugc/Y2NDA4NgMTA5OTc/fb1db03c27410ccdaf5df370a42bf6ad?uid=humor&ts=1596354947294&sign=00d9f85748902b015d0d412f1a39e231)
+[Pan Piano 粉丝言论收集 二](https://web.archive.org/web/20201002140543/http://peco-img.uc.cn/image/humor/unk/ugc/Y2NDA4NgMTA5OTc/982c63d0c4a0128767f50101914dd7cf?uid=humor&ts=1598512831439&sign=d1412b3f0013d7b4b65b8167249de899)
+
 -->
 
 
