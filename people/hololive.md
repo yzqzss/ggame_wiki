@@ -2,7 +2,7 @@
 title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
-date: 2020-10-04T13:45:08.753Z
+date: 2020-10-04T13:46:15.420Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-04T10:16:43.491Z
