@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-10-05T12:51:15.071Z
+date: 2020-10-05T12:53:57.449Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T12:41:24.455Z
@@ -39,6 +39,9 @@ Minecraft Live 2020 地图问题
 + [有关地图事件我之所见_minecraft吧_百度贴吧](https://archive.is/TOrDY "https://tieba.baidu.com/p/6997026671")
 + [Minecraft Live 中出现错误中国地图 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://archive.is/UVmqo "https://www.mcbbs.net/thread-1124398-1-1.html")
 + [昨天minecraft live发生了什么 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://web.archive.org/web/20201005124410/https://www.mcbbs.net/thread-1124427-1-1.html)
++ [《我的世界》全球嘉年华Minecraft Live火热开启 _ 我的世界Minecraft中国版官方网站——你想玩的，这里都有](https://web.archive.org/web/20201005124905/https://mc.163.com/news/20200929/29175_907631.html)
++ [收看《我的世界》全球嘉年华直播 - 我的世界Minecraft中国版官方网站](https://web.archive.org/web/20201005124823/https://mc.163.com/2020/minecon/)
++ [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
 
 负责转播的大陆代理商，网易在哔哩哔哩的直播间在播放完毕后被封禁
 
