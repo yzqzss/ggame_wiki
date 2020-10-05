@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-10-05T12:41:24.455Z
+date: 2020-10-05T12:45:24.511Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T12:41:24.455Z
@@ -35,5 +35,8 @@ Minecraft Live 2020 地图问题
 + [我的世界1.17新版本深度解读_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/BXpKg "https://www.bilibili.com/video/av414772657")
 + [2020年《我的世界》全球嘉年华Minecraft Live即将来临！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/JyLTt "https://www.bilibili.com/video/av712221197")
 + [【生肉】Minecraft Live 2020- Full Show_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/S4vHD "https://www.bilibili.com/video/av842365730")
++ [有关地图事件我之所见_minecraft吧_百度贴吧](https://archive.is/TOrDY "https://tieba.baidu.com/p/6997026671")
+
+负责转播的大陆代理商，网易在哔哩哔哩的直播间在播放完毕后被封禁
 
 没有出征
