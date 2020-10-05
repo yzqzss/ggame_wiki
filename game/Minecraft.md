@@ -2,11 +2,17 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-10-05T12:53:57.449Z
+date: 2020-10-05T13:08:45.723Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T12:41:24.455Z
 ---
+
+语言选项
+--------
+
++ [[MC-133873] Taiwan is a part of China! - Jira](https://web.archive.org/web/20201005125722/https://bugs.mojang.com/browse/MC-133873)
++ 
 
 视频上传禁止事项
 ----------------
@@ -41,8 +47,12 @@ Minecraft Live 2020 地图问题
 + [昨天minecraft live发生了什么 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://web.archive.org/web/20201005124410/https://www.mcbbs.net/thread-1124427-1-1.html)
 + [《我的世界》全球嘉年华Minecraft Live火热开启 _ 我的世界Minecraft中国版官方网站——你想玩的，这里都有](https://web.archive.org/web/20201005124905/https://mc.163.com/news/20200929/29175_907631.html)
 + [收看《我的世界》全球嘉年华直播 - 我的世界Minecraft中国版官方网站](https://web.archive.org/web/20201005124823/https://mc.163.com/2020/minecon/)
++ [[WEB-3170] Minecrat Live - Jira](https://web.archive.org/web/20201005130207/https://bugs.mojang.com/browse/WEB-3170)
 + [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
++ [同样是台湾问题，为什么hololive被粉红干烂，但Minecraft却什么事都没有？ - 新·品葱](https://web.archive.org/web/20201005125529/https://pincong.rocks/question/31781)
 
 负责转播的大陆代理商，网易在哔哩哔哩的直播间在播放完毕后被封禁
+
+[被重定向到哔哩哔哩直播首页的网易我的世界直播间](https://archive.is/sTYVi "https://live.bilibili.com/1310115")
 
 没有出征
