@@ -2,7 +2,7 @@
 title: Fiery Feeds
 description: 非常专业的 RSS 阅读器
 published: true
-date: 2020-10-06T13:56:44.899Z
+date: 2020-10-06T14:23:25.435Z
 tags: rss
 editor: markdown
 dateCreated: 2020-10-06T13:40:19.445Z
@@ -11,6 +11,10 @@ dateCreated: 2020-10-06T13:40:19.445Z
 # IOS 大陆区下架
 
 > I received the same message today. Fiery Feeds Is now no longer available on the Chinese App Store as well.[^1310553289545658369]
+>
+> > **Inoreader** _@Inoreader_
+> >
+> >We received notice from @Apple that our app is removed from the Chinese @AppStore. Free news apps in China will follow VPN's fate it seems.
 
 [^1310553289545658369]: [Fiery Feeds on Twitter: "I received the same message… "](https://archive.is/cXSo9 "https://twitter.com/FieryFeeds/status/1310553289545658369")
 
