@@ -2,7 +2,7 @@
 title: Fiery Feeds
 description: 非常专业的 RSS 阅读器
 published: true
-date: 2020-10-06T13:50:06.400Z
+date: 2020-10-06T13:56:44.899Z
 tags: rss
 editor: markdown
 dateCreated: 2020-10-06T13:40:19.445Z
@@ -22,4 +22,3 @@ dateCreated: 2020-10-06T13:40:19.445Z
 + [Reeder、Fiery Feeds 下架国区 App Store - V2EX](https://web.archive.org/web/20201006134301/https://www.v2ex.com/t/711825)
 + [联想将发布折叠屏 PC、iOS 14.2 测试版文案调整、Reeder 下架国区 App Store等 - 少数派](https://archive.is/NnJn8 "https://web.archive.org/web/20201006134511/https://sspai.com/post/62991")
 + [又有两款知名 RSS 阅读器从中国 App Store 下架](https://web.archive.org/web/20201006134518/https://3g.donews.com/News/donews_detail/3115723.html)
-+ 
