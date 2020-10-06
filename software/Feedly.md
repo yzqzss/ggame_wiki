@@ -2,7 +2,7 @@
 title: Feedly
 description: 一个RSS聚合器应用程序
 published: true
-date: 2020-10-06T14:59:10.299Z
+date: 2020-10-06T15:01:48.885Z
 tags: rss
 editor: markdown
 dateCreated: 2020-10-06T14:59:10.299Z
@@ -18,3 +18,9 @@ dateCreated: 2020-10-06T14:59:10.299Z
 + [Feedly今天好像被墙了…… - 豆瓣小组](https://web.archive.org/web/20201006143826/https://www.douban.com/group/topic/40743868/)
 + [Reeder2貌似被墙了， 有解决办法吗？用reeder2添加feedly帐号，无法登录了 - 知乎](https://web.archive.org/web/20201006144012/https://www.zhihu.com/question/24402398)
 + [https://www.feedly.com is 100% blocked in China | GreatFire Analyzer](https://archive.is/wLKwC "https://en.greatfire.org/https/www.feedly.com")
+
+# 2014年7月左右屏蔽了443端口
+
+> 使其无法通过https的方式进行访问了。[^1933]
+
+[^1933]: [阅读器Feedly被屏蔽-月光微博客](https://web.archive.org/web/20201006145949/https://www.williamlong.info/weibo/archives/1933.html)
