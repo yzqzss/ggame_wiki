@@ -1,8 +1,8 @@
 ---
-title: 2020-09-18_81款App存在个人信息收集使用问题的通告
+title: 2020-09_81款App存在个人信息收集使用问题的通告
 description: 对81款存在个人信息收集使用问题的App进行了集中曝光
 published: true
-date: 2020-10-07T05:44:49.821Z
+date: 2020-10-07T05:44:57.697Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T06:50:47.860Z
