@@ -2,7 +2,7 @@
 title: Microsoft Azure 大陆版
 description: 由中国世纪互联运营的云端服务平台
 published: true
-date: 2020-10-07T02:38:21.531Z
+date: 2020-10-07T02:39:29.385Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T02:38:21.531Z
@@ -18,3 +18,7 @@ dateCreated: 2020-10-07T02:38:21.531Z
 > 如有疑问，您可致电我们的客服热线 400-089-0365。[^announcement]
 
 [^announcement]: [Azure 紧急提示: 关于自查整改“翻墙”行为的通知！- Azure 云计算](https://web.archive.org/web/20200426180402/https://www.azure.cn/support/announcement/rectification-announcement/index.html#close)
+
+> williamlong 微评：根据我的理解，翻墙有合法“翻墙”和非法“翻墙“ 之分，人民日报的编辑们访问Facebook和Twitter就是合法“翻墙”，普通网民访问Facebook和Twitter就算非法“翻墙“ 。[^2490]
+
+[^2490]: [Windows Azure紧急提示: 关于自查整改“翻墙“行为的通知-月光微博客](https://web.archive.org/web/20160415062049/http://www.williamlong.info/blog/archives/2490.html)
