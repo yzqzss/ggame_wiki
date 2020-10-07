@@ -2,7 +2,7 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: 2020-09-19T05:05:01.680Z
+date: 2020-10-07T03:50:36.247Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-09T13:42:36.779Z
@@ -32,7 +32,7 @@ dateCreated: 2020-09-09T13:42:36.779Z
 联系方式
 --------
 
-任何问题，或者想参与编写该Wiki，都可以联系我 gledos@gmail.com
+任何问题，或者想参与编写该Wiki，都可以联系我的邮箱 cngledos@gmail.com
 
 源码
 ----
