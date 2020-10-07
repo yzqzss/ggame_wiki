@@ -2,7 +2,7 @@
 title: Microsoft Azure 大陆版
 description: 由中国世纪互联运营的云端服务平台
 published: true
-date: 2020-10-07T02:39:29.385Z
+date: 2020-10-07T02:41:00.074Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T02:38:21.531Z
@@ -16,6 +16,8 @@ dateCreated: 2020-10-07T02:38:21.531Z
 > 我们随时会收到来自监管部门的通知，要求关闭此类网站或部署。为避免不必要的风险与损失，我们建议您立即进行自查整改。如您有涉及以上违法违规行为，请立即停止，否则将承担违规行为所造成的一切后果。
 >
 > 如有疑问，您可致电我们的客服热线 400-089-0365。[^announcement]
+>
+> ——2016年1月
 
 [^announcement]: [Azure 紧急提示: 关于自查整改“翻墙”行为的通知！- Azure 云计算](https://web.archive.org/web/20200426180402/https://www.azure.cn/support/announcement/rectification-announcement/index.html#close)
 
