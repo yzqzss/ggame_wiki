@@ -2,7 +2,7 @@
 title: Signal
 description: 一款流行的端对端加密即时通讯软件
 published: true
-date: 2020-10-07T02:03:42.818Z
+date: 2020-10-07T02:04:40.744Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T02:01:04.126Z
