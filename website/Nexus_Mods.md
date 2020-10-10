@@ -36,4 +36,3 @@ dateCreated: 2020-10-03T13:26:10.219Z
 + [世界最大MOD网站N网将封禁所有涉美国政治MOD_3DM单机](https://archive.is/XaCAs "https://www.3dmgame.com/news/202010/3798795.html")
 + [[閒聊] 世界最大MOD網站「Nexus Mods」將禁止涉 - 看板 C_Chat - 批踢踢實業坊](https://archive.is/PiiPZ "https://www.ptt.cc/bbs/C_Chat/M.1601625089.A.B6F.html")
 + [世界最大MOD网站N网封杀涉及美国政治MOD【steam吧】_百度贴吧](https://archive.is/Jk3Qb "https://tieba.baidu.com/p/6993327606")
-

@@ -55,3 +55,4 @@ dateCreated: 2020-10-04T10:16:43.491Z
 + [hololive的动态 - 哔哩哔哩](https://archive.is/JopXA "https://space.bilibili.com/286700005/dynamic")
 + [关于近日在敝公司旗下艺人的直播中出现错误内容一事的声明 hololive的动态 - 哔哩哔哩](https://archive.is/DSnPL "https://t.bilibili.com/439666396115075371")
 + [关于敝公司旗下艺人在直播中的部分言行的声明 hololive的动态 - 哔哩哔哩](https://archive.is/OBI03 "https://t.bilibili.com/439668934441809305")
++ 

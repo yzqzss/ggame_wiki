@@ -59,6 +59,3 @@ Pan Piano 在推特上发表了推文，可能数次提到了日台友好
 [Pan Piano 粉丝言论收集 二](https://web.archive.org/web/20201002140543/http://peco-img.uc.cn/image/humor/unk/ugc/Y2NDA4NgMTA5OTc/982c63d0c4a0128767f50101914dd7cf?uid=humor&ts=1598512831439&sign=d1412b3f0013d7b4b65b8167249de899)
 
 -->
-
-
-

@@ -32,4 +32,3 @@ IT之家9月11日消息  据 Xbox one 吧小吧主 9 日发布公告称，目前
 + [国行XBOX已要求实名认证 NGA玩家社区](https://archive.is/c3R6y)
 
 [^1]: [消息称 Xbox 国行已确定将接入实名认证系统 - Xbox - IT之家](https://archive.is/eHZfX "https://web.archive.org/web/20200919025912/https://tieba.baidu.com/p/6937404245")
-

@@ -12,7 +12,6 @@ dateCreated: 2020-10-05T12:41:24.455Z
 --------
 
 + [[MC-133873] Taiwan is a part of China! - Jira](https://web.archive.org/web/20201005125722/https://bugs.mojang.com/browse/MC-133873)
-+ 
 
 国际版的消失
 ------------
