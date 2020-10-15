@@ -2,7 +2,7 @@
 title: 对空气质量言论的规则
 description: 
 published: true
-date: 2020-10-15T02:46:22.240Z
+date: 2020-10-15T04:35:02.901Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-14T15:31:41.624Z
@@ -28,6 +28,7 @@ dateCreated: 2020-10-14T15:31:41.624Z
 
 # 杨舒平演讲风波
 
++ [空气甜美 - Google 搜索](https://archive.is/MKIIN "https://www.google.com/search?q=空气甜美")
 + [观察："美国空气甜美"，网民为何敏感？ - BBC News 中文](https://web.archive.org/web/20200920194643/https://www.bbc.com/zhongwen/simp/press-review-40036283)
 + [你会不会是下一个说美国空气甜美的留学生？](https://web.archive.org/web/20170606003109/http://www.sohu.com/a/142729809_490529)
 + [杨舒平演讲风波 - 维基百科，自由的百科全书](https://web.archive.org/web/20201014151952/https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E8%88%92%E5%B9%B3%E6%BC%94%E8%AE%B2%E9%A3%8E%E6%B3%A2)
