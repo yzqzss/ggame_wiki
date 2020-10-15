@@ -2,7 +2,7 @@
 title: 学习强国
 description: 
 published: true
-date: 2020-10-15T04:32:22.104Z
+date: 2020-10-15T04:33:58.601Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-15T04:32:22.104Z
@@ -35,7 +35,7 @@ Cure53 的分析链接
 + [This App Helps You Learn About China, While China Learns All About You - WSJ](https://web.archive.org/web/20200919151658/https://www.wsj.com/articles/china-broadens-data-collection-through-propaganda-app-and-translation-service-11571058689)
 + [Xi's ideology app has 'backdoor' that could let Beijing snoop: Report](https://web.archive.org/web/20200401220822/https://www.cnbc.com/2019/10/14/china-xi-jinping-ideology-app-has-backdoor-that-could-let-beijing-snoop-on-users-report.html)
 + [学习"强国"的后门 - 扫描你的手机、运行任意命令 - iYouPort](https://web.archive.org/web/20200804060551/https://www.iyouport.org/学习强国的后门-扫描你的手机、运行任意命令/)
-+ [중국 안드로이드 인기어플 학습대국 대규모 사용자 해킹이 가능한 어플로 파악 : 클리앙](https://www.clien.net/service/board/news/14159989)
++ [중국 안드로이드 인기어플 학습대국 대규모 사용자 해킹이 가능한 어플로 파악 : 클리앙](https://web.archive.org/web/20201015043235/https://www.clien.net/service/board/news/14159989)
 
 ### ROOT权限的问题
 
