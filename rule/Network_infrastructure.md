@@ -2,7 +2,7 @@
 title: 对网络基础设施言论的规则
 description: 
 published: true
-date: 2020-10-16T01:15:32.198Z
+date: 2020-10-17T00:22:22.762Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-16T00:57:18.314Z
@@ -38,3 +38,7 @@ dateCreated: 2020-10-16T00:57:18.314Z
 + [部分安卓手机时间变慢，北京移动：个别基站出问题 - 基站 - IT之家](https://archive.is/6FGst "https://www.ithome.com/0/513/333.htm")
 
 以上新闻均禁止评论，V2EX也没有相关讨论帖
+
++ [手机时间变慢，小米高管科普：3 招即可解决 - 时间 - IT之家](https://archive.is/6biR8 "https://www.ithome.com/0/513/350.htm")
+
+这个新闻倒是没有关闭评论，不过还是有删除评论
