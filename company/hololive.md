@@ -2,10 +2,10 @@
 title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
-date: 2020-10-04T13:46:15.420Z
+date: 2020-10-23T08:47:39.469Z
 tags: 
 editor: markdown
-dateCreated: 2020-10-04T10:16:43.491Z
+dateCreated: 2020-10-10T09:00:24.848Z
 ---
 
 赤井心&桐生可可
@@ -61,7 +61,7 @@ dateCreated: 2020-10-04T10:16:43.491Z
 
 + [Re: [hololive] 白上吹雪中國炎上中 - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20201013060345/https://www.ptt.cc/bbs/C_Chat/M.1602054635.A.98B.html)
 + [MZ的星期六梗圖 #59 滿滿原神、炎上、川普染病、雙十連假、異種舔馬的那週 (表篇) - mythz的創作 - 巴哈姆特](https://web.archive.org/web/20201013061046/https://home.gamer.com.tw/creationDetail.php?sn=4944409 "https://archive.is/iqWK5")
-+ ![rKnFX3c](https://web.archive.org/web/20201013061045if_/https://i.imgur.com/rKnFX3c.jpg)
++ ![字幕组的信件](https://web.archive.org/web/20201013061045if_/https://i.imgur.com/rKnFX3c.jpg)
 
 [【每日翻车新闻搬运】590：白上吹雪你居然还敢和kson吃饭！拒绝与敌特分子划清界限？封杀！ - 新·品葱](https://web.archive.org/web/20201011130437/https://pincong.rocks/article/24859)
 
