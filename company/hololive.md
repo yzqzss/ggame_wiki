@@ -99,3 +99,4 @@ dateCreated: 2020-10-10T09:00:24.848Z
 + [【Hololive炎上】直播提及台灣，日本Vtuber「赤井心、桐生可可」被中國小粉紅出征 - YouTube](https://archive.is/Z40wx "https://www.youtube.com/watch?v=EBXyBOzESJw")
 + [【Hololive炎上】直播提及台灣，日本Vtuber「赤井心、桐生可可」被中國小粉紅出征 - YouTube](https://archive.is/Z40wx "https://www.youtube.com/watch?v=EBXyBOzESJw")
 + [虛擬偶像也可以「辱華」？Vtuber「赤井心」與「桐生可可」被小粉紅出征，公司「COVER」的道歉聲明卻大玩兩面手法？《 左邊鄰居觀察日記 》EP 035｜志祺七七 - YouTube](https://archive.is/x3e3M "https://www.youtube.com/watch?v=wz1QUOpSk5k")
++ [Hololive碰瓷中国台湾后:vtuber大撤离 - 知乎](https://web.archive.org/web/20201023090630/https://zhuanlan.zhihu.com/p/267908924)
