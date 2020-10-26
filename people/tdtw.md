@@ -2,7 +2,7 @@
 title: 推倒柏林墙 
 description: 87年生，微系统工程，反动分子，非正常人类研究学者，海贼迷，星际迷，装逼犯，纯洁帝。最大的优点：谦虚。
 published: true
-date: 2020-10-26T15:00:30.648Z
+date: 2020-10-26T15:04:49.864Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-26T14:32:48.356Z
@@ -23,3 +23,4 @@ dateCreated: 2020-10-26T14:32:48.356Z
 
 + [推倒柏林墙 - Twitter](https://web.archive.org/web/20111220121309/http://twitter.com/tdtw)
 + [Tear Down This Wall - 牛博国际](https://web.archive.org/web/20100111044505/http://www.bullogger.com/blogs/tdtw/)
++ [推倒柏林墙专题页面 - 网易i达人](https://web.archive.org/web/20200718144856/https://news.163.com/special/tdblq/)
