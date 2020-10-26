@@ -2,7 +2,7 @@
 title: 大国战疫
 description: 五洲传播出版社的官方宣传书籍
 published: true
-date: 2020-10-26T07:40:14.004Z
+date: 2020-10-26T07:42:29.890Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-26T07:22:29.879Z
@@ -29,3 +29,5 @@ dateCreated: 2020-10-26T07:22:29.879Z
 可能是负面评价，最初豆瓣网页是开放评分以及评价的，
 
 微信公众号[旁听生](https://web.archive.org/web/20201026072733/https://freewechat.com/profile/MzI0NDE2NDk2Nw==)于 `2020-02-28 09:50` 转载了这本书的[宣传海报与简介](https://web.archive.org/web/20201026073214/https://freewechat.com/a/MzI0NDE2NDk2Nw==/2651114440/1)，只要是[不违法，不辱骂](https://web.archive.org/web/20200830011841/https://chinadigitaltimes.net/chinese/2020/02/【异闻观止】旁听生-《大国战疫》出版：中国/ "作者回复3544赞评论的原话")的评论尽可能通过。该文一天后就被删除。
+
+[豆瓣鹅组日报](https://twitter.com/dbezuqun)收集的负面评价：[微信的文章关于新书《大国战疫》底下的评论](https://archive.is/bZDMz "https://twitter.com/dbezuqun/status/1233359063666188290")
