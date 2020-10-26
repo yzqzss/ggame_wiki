@@ -2,7 +2,7 @@
 title: 大国战疫
 description: 五洲传播出版社的官方宣传书籍
 published: true
-date: 2020-10-26T07:39:37.408Z
+date: 2020-10-26T07:39:58.043Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-26T07:22:29.879Z
@@ -22,6 +22,7 @@ dateCreated: 2020-10-26T07:22:29.879Z
 + [『大国战疫』突然下架了？『总书记来过我的家』还在连载](https://web.archive.org/web/20200403063412/http://www.rfi.fr/cn/中国/20200301-大国战疫-突然下架了-习近平来到我们家-还在连载)
 + [习近平兵法指挥大国战“疫” 中国官媒在传递什么信息 - BBC News 中文](https://web.archive.org/web/20200910222554/https://www.bbc.com/zhongwen/simp/chinese-news-52291968)
 + [【新冠肺炎．觀察】歌功頌德與馬屁文化　兩岸始終繞不過的沉痾 香港01 議事廳](https://web.archive.org/web/20200304094815if_/https://www.hk01.com/議事廳/443118/新冠肺炎-觀察-歌功頌德與馬屁文化-兩岸始終繞不過的沉痾)
++ [疫情严峻 无法印刷 《大国战“疫”》悄然下架(组图)武汉肺炎 | 大国战“疫” | 下架 | 印刷 | 即时新闻 | 看中国网](https://web.archive.org/web/20200317203753/https://www.secretchina.com/news/gb/2020/03/02/924835.html)
 
 ### 下架原因
 
