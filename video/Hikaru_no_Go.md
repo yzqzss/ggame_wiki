@@ -2,7 +2,7 @@
 title: 棋魂
 description: 爱奇艺改编漫画《棋魂》的一部网剧
 published: true
-date: 2020-11-02T14:24:19.096Z
+date: 2020-11-02T14:27:57.431Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-02T14:24:19.096Z
@@ -11,7 +11,7 @@ dateCreated: 2020-11-02T14:24:19.096Z
 棋魂的硬宣传剧情问题
 ------------------
 
-+ [中國拍真人版《棋靈王》竟然夾帶私貨、暗藏祖國大內宣！開箱《棋魂》第一集的評價是...？《 好奇七七探索日記 》EP 017｜志祺七七 - YouTube](https://archive.is/clZor)
++ [中國拍真人版《棋靈王》竟然夾帶私貨、暗藏祖國大內宣！開箱《棋魂》第一集的評價是...？《 好奇七七探索日記 》EP 017 志祺七七 - YouTube](https://archive.is/clZor)
 + [大內宣？中國《棋魂》真人版改編不忘加政治宣傳︰香港回歸全中國人都高興 動漫影視 NOW電玩](https://web.archive.org/web/20201030132204if_/https://game.nownews.com/news/20201028/3282080/)
 + [大陸《棋靈王》變政治宣傳片講回歸 網民崩潰：香港百年滄桑？ 娛樂 即時 20201028](https://web.archive.org/web/20201030161525/https://hk.appledaily.com/entertainment/20201028/GL6RGZNAWRCYZDQMURUFUXYXWM/)
 + [「愛奇藝」改編《棋魂》連續劇　不忘政治宣傳　加插主角為香港回歸中國高興情節 立場報道 立場新聞](https://web.archive.org/web/20201030133655/https://www.thestandnews.com/politics/愛奇藝-改編-棋魂-連續劇-不忘政治宣傳-加插主角為香港回歸中國高興情節/)
