@@ -2,13 +2,18 @@
 title: 白糖实名制
 description: 
 published: true
-date: 2020-11-14T09:33:43.942Z
+date: 2020-11-14T09:36:26.164Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-14T09:33:43.942Z
 ---
 
 大概是从2014年开始，白糖实名制从新疆扩展到一些其他的地区。要求是记录身份证，可能会记录住址与个人照片。
+
+目前详情不明，没有发现公开的法规，可能这些限制仅通过口头传达。
+
+相关链接
+--------
 
 + `2014-11-25` [为什么超市买白砂糖8公斤要实名制_百度知道](https://web.archive.org/web/20201114084845/https://zhidao.baidu.com/question/688915338491624164.html)
 + `2015-07-06` [超市买白沙糖为什么要身份认证_百度知道](https://web.archive.org/web/20201114085319/https://zhidao.baidu.com/question/712724716024182765.html)
