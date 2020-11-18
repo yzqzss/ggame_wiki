@@ -2,7 +2,7 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: 2020-10-10T09:02:28.892Z
+date: 2020-11-18T10:14:40.512Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T09:02:28.892Z
@@ -12,6 +12,8 @@ dateCreated: 2020-10-10T09:02:28.892Z
 ========
 
 这里收集许多的和谐游戏的百科
+
+言者无罪，闻者足戒
 
 板块分类
 --------
