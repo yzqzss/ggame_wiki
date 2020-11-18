@@ -2,7 +2,7 @@
 title: 运动中的中苏热线
 description: 
 published: true
-date: 2020-11-18T10:08:29.526Z
+date: 2020-11-18T10:09:19.794Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-18T10:08:29.526Z
@@ -19,4 +19,4 @@ dateCreated: 2020-11-18T10:08:29.526Z
 相关链接
 
 + [周恩来与柯西金机场会谈实录](https://web.archive.org/web/20201009035356/http://www.dswxyjy.org.cn/n1/2019/0228/c423726-30942247.html)
-+ [他是一国总理，打电话给毛主席时被话务员挂断，话务员说：你是坏人-腾讯网](https://archive.is/ymluA)
++ [他是一国总理，打电话给毛主席时被话务员挂断，话务员说：你是坏人-腾讯网](https://archive.is/ymluA "https://new.qq.com/omn/20180529/20180529A0F8XY.html")
