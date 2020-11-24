@@ -2,7 +2,7 @@
 title: 刘岩
 description: 古典舞者
 published: true
-date: 2020-11-24T14:27:40.561Z
+date: 2020-11-24T14:30:22.490Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-24T14:16:44.381Z
@@ -100,6 +100,10 @@ dateCreated: 2020-11-24T14:16:44.381Z
    -- the resulting fall caused her to lose all feeling below the waist.」[^20160303214116]
 
 [^20160303214116]: [Liu Yan's Olympic dream continues - China.org.cn](https://web.archive.org/web/20160303214116/http://www.china.org.cn/video/2009-12/09/content_19033878_2.htm)
+
+现在百度百科里的刘岩条目里，这起事故只有很少的几个字:「奥运会彩排时受伤」[^20201123022121]
+
+[^20201123022121]: [刘岩（舞蹈家）_百度百科](https://web.archive.org/web/20201123022121/https://baike.baidu.com/item/%E5%88%98%E5%B2%A9/3574258)
 
 <!--
 个人、公众号类消息
