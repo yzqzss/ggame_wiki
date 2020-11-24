@@ -2,7 +2,7 @@
 title: Notepad++
 description: 一款 Free 的纯文本编辑器，由侯今吾基于开源的 Scintilla 文本编辑组件独力研发
 published: true
-date: 2020-11-07T15:21:08.184Z
+date: 2020-11-24T15:23:15.183Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-07T15:21:08.184Z
@@ -11,7 +11,7 @@ dateCreated: 2020-11-07T15:21:08.184Z
 Boycott Beijing 2008
 --------------------
 
-### 原因
+### 开始
 
 2008年，Notepad++ 托管在 SourceForge 上的主页上增加了一个名为 Boycott Beijing 2008 的小图片与两个链接。[^uk_site]图片是无国界记者(Reporters sans frontières)所制作的网页宣传横幅。[^Press]第一个链接指向的是无国界记者的一篇英文文章，文章简述了为什么无国界记者组织为什么反对北京举办奥运会。[^RSF]第二个链接指向的是软件作者的意见。[^Olympic]
 
@@ -47,3 +47,22 @@ Boycott Beijing 2008
 + [我删掉了Notepad++ - 豆瓣](https://web.archive.org/web/20201107150745/https://www.douban.com/note/10729861/)
 + [【寻找】请推荐一个类似NOTEPAD++ 的软件 - 专门网](https://archive.is/bmTPt "https://forum.51nb.com/forum.php?mod=viewthread&tid=699723")
 + [你会弃用notepad++吗？ - V2EX](https://web.archive.org/web/20201105035752/https://www.v2ex.com/t/14059)
+
+Free Uyghur Edition
+-------------------
+
+### 开始
+
+2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为"Free Uyghur Edition"，在更新介绍里的是一篇短文，描述了新疆再教育营违反人权等观点。
+
+### 经过
+
+许多大陆用户在 Notepad++ 的 Github 存储库的问题跟踪页 (Issue) 发表大量言论表达反对立场与不满情绪，造成了大量的辱骂页以及灌水，认为作者的偏信偏颇致其言论不符合事实，不认同其政治表态。[^20191030145731]
+
+[^20191030145731]: [问题·notepad-plus-plus / notepad-plus-plus·GitHub](https://web.archive.org/web/20191030145731/https://github.com/notepad-plus-plus/notepad-plus-plus/issues?q=is%3Aissue+is%3Aclosed)
+
+Notepad++ 官网遭到了 DDOS 攻击。
+
+### 结果
+
+作者将软件的官网托管在 Cloudflare 节点后成功恢复访问。
