@@ -1,8 +1,8 @@
 ---
 title: 刘岩
-description: 
+description: 古典舞者
 published: true
-date: 2020-11-24T14:16:44.381Z
+date: 2020-11-24T14:18:17.216Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-24T14:16:44.381Z
