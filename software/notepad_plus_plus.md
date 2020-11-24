@@ -2,7 +2,7 @@
 title: Notepad++
 description: 一款 Free 的纯文本编辑器，由侯今吾基于开源的 Scintilla 文本编辑组件独力研发
 published: true
-date: 2020-11-24T15:23:15.183Z
+date: 2020-11-24T15:34:08.593Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-07T15:21:08.184Z
@@ -57,7 +57,9 @@ Free Uyghur Edition
 
 ### 经过
 
-许多大陆用户在 Notepad++ 的 Github 存储库的问题跟踪页 (Issue) 发表大量言论表达反对立场与不满情绪，造成了大量的辱骂页以及灌水，认为作者的偏信偏颇致其言论不符合事实，不认同其政治表态。[^20191030145731]
+许多大陆用户在 Notepad++ 的 Github 存储库的问题跟踪页 (Issue) 发表大量言论表达反对立场与不满情绪，造成了大量的辱骂页以及灌水，认为作者的偏信偏颇致其言论不符合事实，不认同其政治表态。[^20191030145731][^20191030071237]
+
+[^20191030071237]: [问题·notepad-plus-plus / notepad-plus-plus·GitHub](https://web.archive.org/web/20191030071237/https://github.com/notepad-plus-plus/notepad-plus-plus/issues)
 
 [^20191030145731]: [问题·notepad-plus-plus / notepad-plus-plus·GitHub](https://web.archive.org/web/20191030145731/https://github.com/notepad-plus-plus/notepad-plus-plus/issues?q=is%3Aissue+is%3Aclosed)
 
