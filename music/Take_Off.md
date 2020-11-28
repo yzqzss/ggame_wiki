@@ -2,7 +2,7 @@
 title: 脱掉
 description: 杜德伟在2004年7月23日于台湾发布的专辑
 published: true
-date: 2020-11-28T15:29:54.162Z
+date: 2020-11-28T15:40:12.212Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-28T15:29:54.162Z
@@ -16,7 +16,13 @@ dateCreated: 2020-11-28T15:29:54.162Z
 
 可能也是这三个原因，导致了杜德伟很难进入内地市场，现在网易云音乐上，杜德伟的歌最多也就5000评论数。
 
-相关网页
+### 额外补充
+
+飞碟说 S01E155 使用了脱掉的曲子编写了一首关于审查的歌曲。[^20201127124458]
+
+[^20201127124458]: [【飞碟说】【第一季】 第155 中国电影是如何审查的 - YouTube](https://web.archive.org/web/20201127124458if_/https://www.youtube.com/watch?v=nOOSyPYOdmY)
+
+### 相关网页
 
 + [为新唱片疯狂全裸 杜德伟难逃一禁？(组图)](https://web.archive.org/web/20040815000133/http://music.yule.sohu.com/20040806/n221393253.shtml)
 + [娱乐时尚--《脱掉》遭禁成定局 杜德伟“脱”丢市场(图)](https://web.archive.org/web/20201128144222/http://news.cri.cn/gb/6851/2004/10/19/108@332240.htm)
