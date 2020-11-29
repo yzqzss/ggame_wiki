@@ -2,7 +2,7 @@
 title: 左小祖咒
 description: 摇滚歌手、社会活动家
 published: true
-date: 2020-11-29T14:50:53.095Z
+date: 2020-11-29T14:59:43.199Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-29T14:46:03.914Z
@@ -15,6 +15,10 @@ dateCreated: 2020-11-29T14:46:03.914Z
 2001年2月，左小祖咒以其个人名义制作了第三张专辑《左小祖咒在地安门》，全部9首歌曲，在大陆成功收录了8首[^20201129142609]，只有"的"没有收录，并且在制作时"的"这首歌的轨带寄往台北时，由于国家对文化口的管理限制，[^20201129143752]这份轨带被退回，只得靠人力将这轨带带过去。
 
 [^20201129142609]: [左小祖咒= Zuoxiao Zuzhou *-在地安门= At Di'Anmen（2001，CD）- Discogs](https://web.archive.org/web/20201129142609/https://www.discogs.com/%E5%B7%A6%E5%B0%8F%E7%A5%96%E5%92%92-Zuoxiao-Zuzhou-%E5%9C%A8%E5%9C%B0%E5%AE%89%E9%97%A8-At-Di-Anmen/release/10542937)
+
+<!--
+[新华书店原装正版 流行音乐 左小祖咒在地安门CD - - - 京东JD.COM](https://archive.is/wKDv4 "https://item.jd.com/10210110110.html")
+-->
 
 [^20201129143752]: [Spinfun：迟到的左小祖咒在地安门_影音娱乐_新浪网](https://web.archive.org/web/20201129143752/https://ent.sina.com.cn/r/n/2010-03-04/22022888343.shtml)
 
