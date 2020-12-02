@@ -2,7 +2,7 @@
 title: 斯科特·约翰·莫里森
 description: 澳大利亚第30任总理
 published: true
-date: 2020-12-02T15:34:24.988Z
+date: 2020-12-02T15:35:51.758Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-02T15:15:38.040Z
@@ -25,6 +25,7 @@ dateCreated: 2020-12-02T15:15:38.040Z
 <!--
 相关网页
 
++ [Lijian Zhao 赵立坚 on Twitter: "Shocked by murder of Afghan civilians & prisoners by Australian soldiers. We strongly condemn such acts, &call for holding them accountable.… https://t.co/gqW23a6vg5"](https://web.archive.org/web/20201130032045/https://twitter.com/zlj517/status/1333214766806888448/photo/1)
 + [如何看待画师乌合麒麟回应澳大利亚总理的新画《致莫里森》？ - 知乎](https://web.archive.org/web/20201202142729/https://www.zhihu.com/question/432890992/answers/updated)
 + [中国漫画讽刺澳军真实暴行，澳总理气炸](https://archive.is/Kgtl5 "https://www.guancha.cn/internation/2020_11_30_573034.shtml")
 
