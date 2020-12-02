@@ -2,7 +2,7 @@
 title: 斯科特·约翰·莫里森
 description: 澳大利亚第30任总理
 published: true
-date: 2020-12-02T15:35:51.758Z
+date: 2020-12-02T15:37:04.767Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-02T15:15:38.040Z
@@ -45,5 +45,8 @@ dateCreated: 2020-12-02T15:15:38.040Z
 + [Social media platform WeChat censors Scott Morrison's post directed at Chinese community - ABC News](https://web.archive.org/web/20201202153005/https://www.abc.net.au/news/2020-12-02/scott-morrison-post-censored-by-wechat-china/12944796)
 + [WeChat blocks Australian Prime Minister in doctored image dispute - Reuters](https://web.archive.org/web/20201202153110/https://www.reuters.com/article/us-australia-china-tweet/wechat-blocks-australian-prime-minister-in-doctored-image-dispute-idUSKBN28C01T)
 + [刚刚，莫里森总理官方微信被腾讯删文！曾盛赞在澳华人，称赵立坚推文不影响与中国人民友谊（组图） - 今日悉尼](https://web.archive.org/web/20201202135934/https://sydney.chinesetoday.cn/content-102049377553021)
++ [WeChat blocks Australian PM's post | The Irrigator | Leeton, NSW](https://web.archive.org/web/20201202153544/https://www.irrigator.com.au/story/7038939/wechat-blocks-australian-pms-post/)
++ [WeChat blocks Australian PM's post | The Singleton Argus | Singleton, NSW](https://web.archive.org/web/20201202153549/https://www.singletonargus.com.au/story/7038939/wechat-blocks-australian-pms-post/?cs=7407)
++ [Australian Prime Minister Scott Morrison WeChat message to the Chinese community amid spat with Beijing](https://web.archive.org/web/20201202153534/https://gossipmantri.com/australian-prime-minister-scott-morrison-wechat-message-to-the-chinese-community-amid-spat-with-beijing/)
 
 -->
