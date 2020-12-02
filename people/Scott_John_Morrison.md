@@ -2,7 +2,7 @@
 title: 斯科特·约翰·莫里森
 description: 澳大利亚第30任总理
 published: true
-date: 2020-12-02T15:32:14.797Z
+date: 2020-12-02T15:33:06.616Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-02T15:15:38.040Z
@@ -42,5 +42,6 @@ dateCreated: 2020-12-02T15:15:38.040Z
 + [SBS Language 澳洲总理莫里森在微信发布的文章被删除](https://web.archive.org/web/20201202135739/https://www.sbs.com.au/language/mandarin/zh-hans/scott-morrison-s-post-is-deleted-by-wechat)
 + [Social media platform WeChat censors Scott Morrison's post directed at Chinese community - ABC News](https://web.archive.org/web/20201202153005/https://www.abc.net.au/news/2020-12-02/scott-morrison-post-censored-by-wechat-china/12944796)
 + [WeChat blocks Australian Prime Minister in doctored image dispute - Reuters](https://web.archive.org/web/20201202153110/https://www.reuters.com/article/us-australia-china-tweet/wechat-blocks-australian-prime-minister-in-doctored-image-dispute-idUSKBN28C01T)
++ [刚刚，莫里森总理官方微信被腾讯删文！曾盛赞在澳华人，称赵立坚推文不影响与中国人民友谊（组图） - 今日悉尼](https://web.archive.org/web/20201202135934/https://sydney.chinesetoday.cn/content-102049377553021)
 
 -->
