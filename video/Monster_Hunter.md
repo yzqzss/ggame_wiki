@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-04T17:46:38.220Z
+date: 2020-12-04T17:48:18.105Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -40,7 +40,9 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 目前知乎、NGA等地方依然允许这方面的讨论。
 
-额外补充，我并没有找到有一定数量的人认为怪物猎人的巧克力活动侮辱了日本人。
+额外补充，有人称日本人在另一个关于怪物猎人的地方被侮辱了，不过我并没有找到证据证明怪物猎人的巧克力活动侮辱了日本人。[^20201204174229]
+
+[^20201204174229]: [チョコレート - Twitter Search](https://web.archive.org/web/20201204174229/https://twitter.com/search?q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88)
 
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
