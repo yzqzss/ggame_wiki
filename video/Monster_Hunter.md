@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T07:28:04.919Z
+date: 2020-12-05T07:32:29.364Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -44,7 +44,9 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^20201204174229]: [チョコレート - Twitter Search](https://web.archive.org/web/20201204174229/https://twitter.com/search?q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88)
 
-还有一种可能是出现了断章取义，比如这台词之后还有几句话。[]
+还有一种可能是出现了断章取义，比如这台词之后还有几句话。[^20201205072235]
+
+[炸出一群小鱼。被断章取义的电影片段后面是大兵说：这在你们那是笑话在我们那可不是。 #怪物猎人 - 狼里个螂](https://web.archive.org/web/20201205072235/https://twitter.com/nongxl/status/1334904508774674432)
 
 4日的晚上10时，CapcomAsia(卡普空亚洲)发出了声明，表示会跟进这个问题，但主要责任不在科普空本部，因为制作电影的公司不少卡普空。[^P8nwN]
 
