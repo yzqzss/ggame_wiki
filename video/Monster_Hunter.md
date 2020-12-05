@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:22:22.021Z
+date: 2020-12-05T08:22:31.799Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -97,4 +97,6 @@ dateCreated: 2020-12-04T17:46:38.220Z
 大量差评 [Steam Community :: Monster Hunter: World](https://web.archive.org/web/20201205074058/https://steamcommunity.com/app/582010/negativereviews/?browsefilter=trendweek&snr=1_5_100010_&filterLanguage=schinese&p=1)
 
 [录像](https://web.archive.org/web/20201205072028/https://img.nga.178.com/attachments/mon_202012/04/-cckxQ5-guhyXeZ3tT3cS8w-51.mp4)
+
+[[电影] 干货来了，怪物猎人电影喂屎辱华确定 NGA玩家社区](https://archive.is/mAiix)
 -->
