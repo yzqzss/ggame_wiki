@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:21:16.294Z
+date: 2020-12-05T08:22:04.799Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -93,4 +93,6 @@ dateCreated: 2020-12-04T17:46:38.220Z
 [Kaiju-Sized Mistake As Monster Hunter Movie Premieres With Offensive Slur | KAKUCHOPUREI.COM](https://web.archive.org/web/20201204162516/https://kakuchopurei.com/2020/12/04/kaiju-sized-mistake-as-monster-hunter-movie-premieres-with-offensive-slur/)
 
 [卡普空回应《怪物猎人》电影：已向有关公司反映情况 _ 游民星空 GamerSky.com](https://archive.is/yg5iH)
+
+大量差评 [Steam Community :: Monster Hunter: World](https://web.archive.org/web/20201205074058/https://steamcommunity.com/app/582010/negativereviews/?browsefilter=trendweek&snr=1_5_100010_&filterLanguage=schinese&p=1)
 -->
