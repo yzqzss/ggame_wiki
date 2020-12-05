@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T07:46:44.382Z
+date: 2020-12-05T08:04:21.428Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -54,7 +54,11 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^P8nwN]: [CapcomAsia的动态-哔哩哔哩](https://archive.is/P8nwN "https://t.bilibili.com/464937485467330234")
 
-5日，知乎大多数相关问题都转为需登录查看了。
+5日，知乎大多数相关问题都转为需登录查看了，相关从业者爆料暂时停映旧版，等新版出现就能放映了。[^Njyko]不过稍晚一些时cnBeta新闻网写了相关报道，结果不到一天就被删除了，只留下了转载。[^20201205075042]
+
+[^Njyko]: [接通知，怪物猎人场次全部撤掉，退票处... 来自TNABO北美票房榜吧 - 微博](https://archive.is/Njyko)
+
+[^20201205075042]: [《怪物猎人》电影国内各大院线下架 有新版本再放映 怪物猎人_新浪科技_新浪网](https://web.archive.org/web/20201205075042/https://finance.sina.com.cn/tech/2020-12-05/doc-iiznezxs5287094.shtml)
 
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
@@ -69,4 +73,12 @@ dateCreated: 2020-12-04T17:46:38.220Z
 恶搞之家在S06E06以反讽的形式使用了一个对少数族裔歧视性的笑话 [Yarn | Chinese, Japanese, dirty knees, look at these. ~ Family Guy (1999) - S06E06 Comedy | Video clips by quotes, clip | 5508d244-2679-4b3a-a562-8ece0052a754 | 紗](https://web.archive.org/web/20201204160034/https://getyarn.io/yarn-clip/5508d244-2679-4b3a-a562-8ece0052a754)
 
 [怪物猎人 - Twitter Search](https://web.archive.org/web/20201204174257/https://twitter.com/search?q=%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA)
+
+[怪物猎人电影辱华 - 新·品葱](https://web.archive.org/web/20201204135556/https://pincong.rocks/article/27089)
+
+[如何评价米拉.乔沃维奇和托尼.贾主演的电影《怪物猎人》？ - 知乎](https://web.archive.org/web/20201204171919/https://www.zhihu.com/question/432251821)
+
+[怪物猎人 (豆瓣)](https://web.archive.org/web/20201205074841/https://movie.douban.com/subject/26920285/)
+
+
 -->
