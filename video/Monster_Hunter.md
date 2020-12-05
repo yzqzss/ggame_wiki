@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T07:24:34.905Z
+date: 2020-12-05T07:28:04.919Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -46,7 +46,9 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 还有一种可能是出现了断章取义，比如这台词之后还有几句话。[]
 
+4日的晚上10时，CapcomAsia(卡普空亚洲)发出了声明，表示会跟进这个问题，但主要责任不在科普空本部，因为制作电影的公司不少卡普空。[^P8nwN]
 
+[^P8nwN]: [CapcomAsia的动态-哔哩哔哩](https://archive.is/P8nwN "https://t.bilibili.com/464937485467330234")
 
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
