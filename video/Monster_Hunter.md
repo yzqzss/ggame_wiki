@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:04:21.428Z
+date: 2020-12-05T08:05:05.904Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -54,11 +54,11 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^P8nwN]: [CapcomAsia的动态-哔哩哔哩](https://archive.is/P8nwN "https://t.bilibili.com/464937485467330234")
 
-5日，知乎大多数相关问题都转为需登录查看了，相关从业者爆料暂时停映旧版，等新版出现就能放映了。[^Njyko]不过稍晚一些时cnBeta新闻网写了相关报道，结果不到一天就被删除了，只留下了转载。[^20201205075042]
+5日，知乎大多数相关问题都转为需登录查看了，相关从业者爆料暂时停映旧版，等新版出现就能放映了。[^Njyko]稍晚一些时cnBeta新闻网写了相关报道。[^20201205075042]
 
 [^Njyko]: [接通知，怪物猎人场次全部撤掉，退票处... 来自TNABO北美票房榜吧 - 微博](https://archive.is/Njyko)
 
-[^20201205075042]: [《怪物猎人》电影国内各大院线下架 有新版本再放映 怪物猎人_新浪科技_新浪网](https://web.archive.org/web/20201205075042/https://finance.sina.com.cn/tech/2020-12-05/doc-iiznezxs5287094.shtml)
+[^20201205075042]: [《怪物猎人》电影国内各大院线下架 有新版本再放映 - 电影 - cnBeta.COM](https://web.archive.org/web/20201205080143/https://hot.cnbeta.com/articles/movie/1061991.htm)
 
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
