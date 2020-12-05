@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:20:35.442Z
+date: 2020-12-05T08:20:59.305Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -89,4 +89,6 @@ dateCreated: 2020-12-04T17:46:38.220Z
 [突发：电影怪物猎人今日起在内地院线下... 来自导筒directube - 微博](https://archive.is/5hZEl)
 
 [Daniel Ahmad on Twitter: "Great writing in the Monster Hunter movie...… "](https://web.archive.org/web/20201205080752/https://twitter.com/ZhugeEX/status/1334794969727569924)
+
+[Kaiju-Sized Mistake As Monster Hunter Movie Premieres With Offensive Slur | KAKUCHOPUREI.COM](https://web.archive.org/web/20201204162516/https://kakuchopurei.com/2020/12/04/kaiju-sized-mistake-as-monster-hunter-movie-premieres-with-offensive-slur/)
 -->
