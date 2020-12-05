@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-04T17:48:18.105Z
+date: 2020-12-05T07:24:34.905Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -44,6 +44,10 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^20201204174229]: [チョコレート - Twitter Search](https://web.archive.org/web/20201204174229/https://twitter.com/search?q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88)
 
+还有一种可能是出现了断章取义，比如这台词之后还有几句话。[]
+
+
+
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
 谐音梗了吧，就算真要直译过来也只是，看我的膝盖，猜猜是什么膝盖————中国膝盖
@@ -55,4 +59,6 @@ dateCreated: 2020-12-04T17:46:38.220Z
 [翻譯有內鬼！《魔物獵人》電影「辱華」中國緊急下架、台詞翻譯遭控硬凹 | 動漫影視 | NOW電玩](https://web.archive.org/web/20201204164338if_/https://game.nownews.com/news/20201204/3284838/)
 
 恶搞之家在S06E06以反讽的形式使用了一个对少数族裔歧视性的笑话 [Yarn | Chinese, Japanese, dirty knees, look at these. ~ Family Guy (1999) - S06E06 Comedy | Video clips by quotes, clip | 5508d244-2679-4b3a-a562-8ece0052a754 | 紗](https://web.archive.org/web/20201204160034/https://getyarn.io/yarn-clip/5508d244-2679-4b3a-a562-8ece0052a754)
+
+[怪物猎人 - Twitter Search](https://web.archive.org/web/20201204174257/https://twitter.com/search?q=%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA)
 -->
