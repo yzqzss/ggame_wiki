@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:18:49.173Z
+date: 2020-12-05T08:19:11.838Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -82,5 +82,7 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 该讨论帖被迫改名为「更名测试」[怪物猎人电影版开篇辱华 - 卓明谷 - Stage1st - stage1/s1 游戏动漫论坛](https://web.archive.org/web/20201205080318/https://bbs.saraba1st.com/2b/thread-1975720-1-1.html)
 
+[突发：电影怪物猎人今日起在内地院线下... 来自导筒directube - 微博](https://archive.is/5hZEl)
 
+[Daniel Ahmad on Twitter: "Great writing in the Monster Hunter movie...… "](https://web.archive.org/web/20201205080752/https://twitter.com/ZhugeEX/status/1334794969727569924)
 -->
