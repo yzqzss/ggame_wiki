@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:20:16.228Z
+date: 2020-12-05T08:20:35.442Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -54,13 +54,13 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^P8nwN]: [CapcomAsia的动态-哔哩哔哩](https://archive.is/P8nwN "https://t.bilibili.com/464937485467330234")
 
-5日，知乎大多数相关问题都转为需登录查看了，相关从业者爆料暂时停映旧版，等新版出现就能放映了。[^Njyko]稍晚一些时cnBeta新闻网写了相关报道。[^20201205075042]不过NGA论坛里讨论这件事的帖子缺被移除了，3DM上的这个新闻也禁止评论。[^iH6ZJ]
+5日，知乎大多数相关问题都转为需登录查看了，相关从业者爆料暂时停映旧版，等新版出现就能放映了。[^Njyko]稍晚一些时cnBeta新闻网写了相关报道。[^20201205075042]不过NGA论坛里讨论这件事的帖子缺被移除了，[^Jn6pM]3DM上的这个新闻也禁止评论。[^iH6ZJ]
 
 [^Njyko]: [接通知，怪物猎人场次全部撤掉，退票处... 来自TNABO北美票房榜吧 - 微博](https://archive.is/Njyko)
 
 [^20201205075042]: [《怪物猎人》电影国内各大院线下架 有新版本再放映 - 电影 - cnBeta.COM](https://web.archive.org/web/20201205080143/https://hot.cnbeta.com/articles/movie/1061991.htm)
 
-
+[^Jn6pM]: [怪物猎人的新通知 NGA玩家社区](https://archive.is/Jn6pM)
 
 [^iH6ZJ]: [《怪物猎人》电影国内各大院线下架 有新版本再放映_3DM单机](https://archive.is/iH6ZJ)
 
