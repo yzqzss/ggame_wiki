@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-12-07T14:00:51.457Z
+date: 2020-12-07T14:02:22.892Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
@@ -72,4 +72,8 @@ Minecraft Live 2020 地图问题
 + [維聲小助手🛠 on Twitter: "1小时39分20秒起"](https://archive.is/v5Jt8 "https://twitter.com/Vop19530615/status/1312637242473549824")
 + [维尼大帝 on Twitter: "昨天的Minecraft Live 2020......](https://archive.is/3dZMn "https://twitter.com/realEmperorPooh/status/1312640474033786880")
 + [推特小红旗 on Twitter: "10月4日消息 据网友反馈......"](https://archive.is/hkd3H "https://twitter.com/Xhnsoc__Redflag/status/1312658532055937026")
+
+已恢复的我的世界Minecraft官方直播间
+
+[我的世界Minecraft官方直播间 哔哩哔哩直播，二次元弹幕直播平台](https://archive.vn/lTdgw "https://live.bilibili.com/1310115")
 -->
