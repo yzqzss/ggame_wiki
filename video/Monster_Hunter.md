@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-05T08:22:31.799Z
+date: 2020-12-07T15:05:28.028Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -50,9 +50,11 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^20201205072235]: [炸出一群小鱼。被断章取义的电影片段后面是大兵说：这在你们那是笑话在我们那可不是。 #怪物猎人 - 狼里个螂](https://web.archive.org/web/20201205072235/https://twitter.com/nongxl/status/1334904508774674432)
 
-4日的晚上10时，CapcomAsia(卡普空亚洲)发出了声明，表示会跟进这个问题，但主要责任不在科普空本部，因为制作电影的公司不少卡普空。[^P8nwN]
+4日的晚上10时，CapcomAsia(卡普空亚洲)发出了声明，表示会跟进这个问题，但主要责任不在科普空本部，因为制作电影的公司不是卡普空。[^P8nwN][^X50Ko]
 
 [^P8nwN]: [CapcomAsia的动态-哔哩哔哩](https://archive.is/P8nwN "https://t.bilibili.com/464937485467330234")
+
+[^X50Ko]: [关于电影怪物猎人 关于电影怪物... 来自CapcomAsia - 微博](https://archive.is/X50Ko "https://weibo.com/2485196582/JwWVkx9xq")
 
 5日，知乎大多数相关问题都转为需登录查看了，相关从业者爆料暂时停映旧版，等新版出现就能放映了。[^Njyko]稍晚一些时cnBeta新闻网写了相关报道。[^20201205075042]不过NGA论坛里讨论这件事的帖子缺被移除了，[^Jn6pM]3DM上的这个新闻也禁止评论。[^iH6ZJ]
 
@@ -63,6 +65,8 @@ dateCreated: 2020-12-04T17:46:38.220Z
 [^Jn6pM]: [怪物猎人的新通知 NGA玩家社区](https://archive.is/Jn6pM)
 
 [^iH6ZJ]: [《怪物猎人》电影国内各大院线下架 有新版本再放映_3DM单机](https://archive.is/iH6ZJ)
+
+[‘Monster Hunter’ Producer Issues Apology Over Offending Scene – Deadline](https://deadline.com/2020/12/monster-hunter-producer-apologizes-china-controversy-constantin-film-1234651219/)
 
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
@@ -98,5 +102,11 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [录像](https://web.archive.org/web/20201205072028/https://img.nga.178.com/attachments/mon_202012/04/-cckxQ5-guhyXeZ3tT3cS8w-51.mp4)
 
-[[电影] 干货来了，怪物猎人电影喂屎辱华确定 NGA玩家社区](https://archive.is/mAiix)
++ [[电影] 干货来了，怪物猎人电影喂屎辱华确定 NGA玩家社区](https://archive.is/mAiix)
++ [时光早报：《怪物猎人》制片方道歉 "哥斯拉大战金刚"曝海报　"神奇女侠"新预告 – Mtime时光网](https://archive.is/SxRBC)
++ [對白嘲笑Chinese 「怪物獵人」在中國上映1天下架 | 中國即時 | 中國 | 世界新聞網](https://web.archive.org/web/20201207144858/https://www.worldjournal.com/wj/story/121474/5070177)
++ [‘Monster Hunter’ Producer Issues Apology Over Offending Scene – Deadline](https://web.archive.org/web/20201207040923/https://deadline.com/2020/12/monster-hunter-producer-apologizes-china-controversy-constantin-film-1234651219/)
++ [《怪物猎人》被指辱华 上映一天即下线 | 德国之声 来自德国 介绍德国 | DW | 05.12.2020](https://web.archive.org/web/20201206124543/https://www.dw.com/zh/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%8D%8E-%E4%B8%8A%E6%98%A0%E4%B8%80%E5%A4%A9%E5%8D%B3%E4%B8%8B%E7%BA%BF/a-55833339)
++ [电影《怪物猎人》被指出现辱华台词在中国下架 | 早报](https://web.archive.org/web/20201207144851/https://www.zaobao.com.sg/realtime/china/story20201206-1106599)
++ [China Pulls ‘Monster Hunter’ From Cinemas Over Controversial Scene – Deadline](https://web.archive.org/web/20201207040903/https://deadline.com/2020/12/china-pulls-monster-hunter-release-cinemas-censorship-1234651005/)
 -->
