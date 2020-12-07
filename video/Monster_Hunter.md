@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-07T15:10:44.893Z
+date: 2020-12-07T15:11:05.377Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -111,4 +111,5 @@ dateCreated: 2020-12-04T17:46:38.220Z
 + [《怪物猎人》被指辱华 上映一天即下线 | 德国之声 来自德国 介绍德国 | DW | 05.12.2020](https://web.archive.org/web/20201206124543/https://www.dw.com/zh/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%8D%8E-%E4%B8%8A%E6%98%A0%E4%B8%80%E5%A4%A9%E5%8D%B3%E4%B8%8B%E7%BA%BF/a-55833339)
 + [电影《怪物猎人》被指出现辱华台词在中国下架 | 早报](https://web.archive.org/web/20201207144851/https://www.zaobao.com.sg/realtime/china/story20201206-1106599)
 + [China Pulls ‘Monster Hunter’ From Cinemas Over Controversial Scene – Deadline](https://web.archive.org/web/20201207040903/https://deadline.com/2020/12/china-pulls-monster-hunter-release-cinemas-censorship-1234651005/)
++ [怪物猎人（电影） - 知乎](https://web.archive.org/web/20201207150438/https://www.zhihu.com/topic/20681654/hot)
 -->
