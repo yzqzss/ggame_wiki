@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-12-07T13:50:37.216Z
+date: 2020-12-07T13:54:39.328Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
@@ -37,7 +37,17 @@ Minecraft Live 2020 地图问题
 
 视频中1小时39分20秒时出现的地图问题
 
-相关讨论被限制，没有媒体进行报道。
+相关讨论被限制，贴吧里出现的讨论帖大多被百度工作人员删除[^20201207133919]没有媒体进行报道。
+
+[^20201207133919]: [回复：有关地图事件我之所见_minecraft吧_百度贴吧](https://web.archive.org/web/20201207133919/https://tieba.baidu.com/p/6997026671?pn=2)
+
+
+负责转播的大陆代理商，网易在哔哩哔哩的直播间在播放完毕后被封禁。[^sTYVi]
+
+[^sTYVi]: [被重定向到哔哩哔哩直播首页的网易我的世界直播间](https://archive.is/sTYVi "https://live.bilibili.com/1310115")
+
+### 相关网页
+
 
 + [維聲小助手🛠 on Twitter: "1小时39分20秒起"](https://archive.is/v5Jt8 "https://twitter.com/Vop19530615/status/1312637242473549824")
 + [维尼大帝 on Twitter: "昨天的Minecraft Live 2020......](https://archive.is/3dZMn "https://twitter.com/realEmperorPooh/status/1312640474033786880")
@@ -55,10 +65,6 @@ Minecraft Live 2020 地图问题
 + [[WEB-3170] Minecrat Live - Jira](https://web.archive.org/web/20201005130207/https://bugs.mojang.com/browse/WEB-3170)
 + [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
 + [同样是台湾问题，为什么hololive被粉红干烂，但Minecraft却什么事都没有？ - 新·品葱](https://web.archive.org/web/20201005125529/https://pincong.rocks/question/31781)
-
-负责转播的大陆代理商，网易在哔哩哔哩的直播间在播放完毕后被封禁[^sTYVi]
-
-[^sTYVi]: [被重定向到哔哩哔哩直播首页的网易我的世界直播间](https://archive.is/sTYVi "https://live.bilibili.com/1310115")
 
 结论——没有出征
 
