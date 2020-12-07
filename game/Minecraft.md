@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-12-07T13:50:16.988Z
+date: 2020-12-07T13:50:37.216Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
@@ -60,4 +60,6 @@ Minecraft Live 2020 地图问题
 
 [^sTYVi]: [被重定向到哔哩哔哩直播首页的网易我的世界直播间](https://archive.is/sTYVi "https://live.bilibili.com/1310115")
 
-结果——没有出征<!--如果出征不自由，则出征无意义-->
+结论——没有出征
+
+<!--如果出征不自由，则出征无意义-->
