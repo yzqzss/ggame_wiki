@@ -2,7 +2,7 @@
 title: 怪物猎人
 description: 
 published: true
-date: 2020-12-07T15:05:28.028Z
+date: 2020-12-07T15:10:44.893Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-04T17:46:38.220Z
@@ -66,7 +66,9 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^iH6ZJ]: [《怪物猎人》电影国内各大院线下架 有新版本再放映_3DM单机](https://archive.is/iH6ZJ)
 
-[‘Monster Hunter’ Producer Issues Apology Over Offending Scene – Deadline](https://deadline.com/2020/12/monster-hunter-producer-apologizes-china-controversy-constantin-film-1234651219/)
+6日，电影的相关人员道歉，将会删去这一段台词。[^apologizes]
+
+[^apologizes]: [‘Monster Hunter’ Producer Issues Apology Over Offending Scene – Deadline](https://deadline.com/2020/12/monster-hunter-producer-apologizes-china-controversy-constantin-film-1234651219/)
 
 <!--
 原文是 look at my knees, what kind of knees are these----chinese
