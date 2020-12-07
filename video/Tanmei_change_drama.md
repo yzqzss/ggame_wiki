@@ -2,7 +2,7 @@
 title: 耽改剧
 description: 异性恋版耽美剧
 published: true
-date: 2020-12-07T15:44:26.733Z
+date: 2020-12-07T15:44:44.435Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-07T15:35:14.659Z
@@ -26,4 +26,5 @@ dateCreated: 2020-12-07T15:35:14.659Z
 + [如何正确解读耽改剧的感情|爱情|小说|美文_网易订阅](https://web.archive.org/web/20201207152803/https://dy.163.com/article/FCEQ4RVD0545GN33.html)
 + [男腾讯恋与爱姬艺的故事 - 哔哩哔哩](https://archive.is/jGtOT "https://www.bilibili.com/read/cv8577456")
 + [59部已知耽改剧项目总汇.jpg (440×1885)](https://archive.is/uyiNO/33efbabda770f7065b62888475846408e8cdad54.jpg)
++ [从耽美剧到耽改剧，剧中的两位男主到底啥关系?-大河报网](https://archive.is/GkiZN "https://www.dahebao.cn/news/1518191?cid=1518191")
 -->
