@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-12-07T14:09:36.624Z
+date: 2020-12-07T14:10:07.691Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
@@ -63,7 +63,7 @@ Minecraft Live 2020 地图问题
 + [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
 + [同样是台湾问题，为什么hololive被粉红干烂，但Minecraft却什么事都没有？ - 新·品葱](https://web.archive.org/web/20201005125529/https://pincong.rocks/question/31781)
 
-结论——没有出征
+结论 —— 没有出征
 
 <!--如果出征不自由，则出征无意义
 
