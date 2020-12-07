@@ -2,7 +2,7 @@
 title: 耽改剧
 description: 异性恋版耽美剧
 published: true
-date: 2020-12-07T15:35:58.711Z
+date: 2020-12-07T15:38:29.361Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-07T15:35:14.659Z
@@ -21,4 +21,7 @@ dateCreated: 2020-12-07T15:35:14.659Z
 + [50部“耽改剧”或全遭殃？ 双男主戏破圈出局后何去何从？ - 哔哩哔哩](https://archive.is/63Pl2 "https://www.bilibili.com/read/cv5121469")
 + [《陈情令》热播的背后 耽美怎样影响性别文化？-南都观察-财新博客-新世纪的常识传播者-财新网](https://web.archive.org/web/20191102020711/http://nanduguancha.blog.caixin.com/archives/213785)
 + [为什么现在这么多耽改剧呢？为什么越来越多的原耽读者讨厌耽改剧呢？ - 动漫资讯(英雄联盟LOL)](https://web.archive.org/web/20201207152852/http://www.bajieyou.com/new/b762c77659fe44c094e2c68947bc87ae)
++ [耽改剧是什么意思？ - 小鸡词典](https://web.archive.org/web/20201207153122if_/https://jikipedia.com/definition/891500248)
++ [耽美IP到底能撬动多大市场？_创事记_新浪科技_新浪网](https://web.archive.org/web/20201206152849/https://finance.sina.com.cn/tech/csj/2020-11-25/doc-iiznezxs3623109.shtml)
++ [如何正确解读耽改剧的感情|爱情|小说|美文_网易订阅](https://web.archive.org/web/20201207152803/https://dy.163.com/article/FCEQ4RVD0545GN33.html)
 -->
