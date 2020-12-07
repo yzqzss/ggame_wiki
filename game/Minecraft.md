@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: 2020-12-07T14:10:07.691Z
+date: 2020-12-07T14:11:09.823Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
@@ -37,9 +37,9 @@ Minecraft Live 2020 地图问题
 
 视频中1小时39分20秒时出现的地图问题，事件为中华人民共和国缺少藏南与台湾。
 
-然后相关讨论被限制，贴吧里出现的讨论帖大多被百度工作人员删除[^20201207133919]没有媒体进行报道。
+然后相关讨论被限制，贴吧里出现的讨论帖大多被百度工作人员删除[^133919]没有媒体进行报道。
 
-[^20201207133919]: [回复：有关地图事件我之所见_minecraft吧_百度贴吧](https://web.archive.org/web/20201207133919/https://tieba.baidu.com/p/6997026671?pn=2)
+[^133919]: [回复：有关地图事件我之所见_minecraft吧_百度贴吧](https://web.archive.org/web/20201207133919/https://tieba.baidu.com/p/6997026671?pn=2)
 
 负责转播的大陆代理商，网易在哔哩哔哩的直播间在播放完毕后可能被封禁。[^sTYVi]
 
