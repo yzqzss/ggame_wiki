@@ -2,7 +2,7 @@
 title: 粮食量产相关言论审查
 description: 
 published: true
-date: 2020-12-08T15:17:11.670Z
+date: 2020-12-08T15:20:13.775Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-08T15:05:03.107Z
@@ -19,5 +19,6 @@ dateCreated: 2020-12-08T15:05:03.107Z
 [^ylgUN]: [关粮食量产相关言论审查通知 亲爱的主播： - 知乎](https://archive.is/ylgUN "https://zhuanlan.zhihu.com/p/321958261")
 
 <!--
-[用数据辟谣！中国进口印度十万吨大米，印媒称中国或遭遇粮食危机__财经头条](https://web.archive.org/web/20201208150252/https://cj.sina.com.cn/articles/view/6237772252/173ccd9dc020014ve8 "https://archive.is/FKK1i")
++ [用数据辟谣！中国进口印度十万吨大米，印媒称中国或遭遇粮食危机__财经头条](https://web.archive.org/web/20201208150252/https://cj.sina.com.cn/articles/view/6237772252/173ccd9dc020014ve8 "https://archive.is/FKK1i")
++ [越南优势不再！30年来首次，中国将从印度进口大米_出口国](https://archive.is/wvhIG "https://www.sohu.com/a/436258625_194632")
 -->
