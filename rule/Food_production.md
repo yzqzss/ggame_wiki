@@ -2,7 +2,7 @@
 title: 粮食量产相关言论审查
 description: 
 published: true
-date: 2020-12-09T08:02:00.644Z
+date: 2020-12-09T08:05:04.772Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-08T15:05:03.107Z
@@ -48,4 +48,5 @@ dateCreated: 2020-12-08T15:05:03.107Z
 + [用数据辟谣！中国进口印度十万吨大米，印媒称中国或遭遇粮食危机__财经头条](https://web.archive.org/web/20201208150252/https://cj.sina.com.cn/articles/view/6237772252/173ccd9dc020014ve8 "https://archive.is/FKK1i")
 + [越南优势不再！30年来首次，中国将从印度进口大米_出口国](https://archive.is/wvhIG "https://www.sohu.com/a/436258625_194632")
 + [国家储备玉米被水泡？如何消除“粮仓又着火”担忧_问题](https://archive.is/TKy2i "https://www.sohu.com/a/407373753_665455")
++ [禁浪費！中國1.36 萬「吃播」帳號遭刪 - 自由財經](https://web.archive.org/web/20200907071121/https://ec.ltn.com.tw/article/breakingnews/3284033)
 -->
