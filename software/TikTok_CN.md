@@ -2,7 +2,7 @@
 title: 抖音
 description: 世界第一的短视频社交应用程式
 published: true
-date: 2020-12-16T07:50:29.362Z
+date: 2020-12-16T07:54:27.678Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T07:50:29.362Z
@@ -13,6 +13,12 @@ dateCreated: 2020-12-16T07:50:29.362Z
 相关讨论
 
 + [如何看待抖音用粤语直播时会强制停播？ - 知乎](https://web.archive.org/web/20201216073035/https://www.zhihu.com/question/378085036)
+
+## 敏感词问题
+
++ jb太可怕[^20201216072302]
+
+[^20201216072302]: [【误解向】jb真的太可怕茶馆 南+ South Plus - powered by Pu!mdHd](https://web.archive.org/web/20201216072302/https://webcache.googleusercontent.com/search?q=cache%3AIlejAUpLAGEJ%3Ahttps%3A%2F%2Fwww.south-plus.net%2Fsimple%2Findex.php%3Ft987558.html)
 
 ## 直播规范中属于违规的事
 
