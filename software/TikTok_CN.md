@@ -2,7 +2,7 @@
 title: 抖音
 description: 世界第一的短视频社交应用程式
 published: true
-date: 2020-12-16T07:54:27.678Z
+date: 2020-12-16T08:02:30.795Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T07:50:29.362Z
@@ -19,6 +19,15 @@ dateCreated: 2020-12-16T07:50:29.362Z
 + jb太可怕[^20201216072302]
 
 [^20201216072302]: [【误解向】jb真的太可怕茶馆 南+ South Plus - powered by Pu!mdHd](https://web.archive.org/web/20201216072302/https://webcache.googleusercontent.com/search?q=cache%3AIlejAUpLAGEJ%3Ahttps%3A%2F%2Fwww.south-plus.net%2Fsimple%2Findex.php%3Ft987558.html)
+
+## 潜规则
+
++ 某人是否不幸，等官方通告
++ 县城的负面消息抖音也会删除
++ 最好不出现警察，不提任何公权力
++ 泳装只能穿在沙滩上[^20201215104223]
+
+[^20201215104223]: [【立此存照】“你根本不知道抖音的管控有多严重” - 中国数字时代](https://web.archive.org/web/20201215104223/https://chinadigitaltimes.net/chinese/2020/10/【立此存照】你根本不知道抖音的管控有多严重/)
 
 ## 直播规范中属于违规的事
 
