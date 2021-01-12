@@ -8,7 +8,7 @@ editor: undefined
 dateCreated: 2020-09-19T04:58:53.603Z
 ---
 
-# NGA 手机 APP 被下架
+## NGA 手机 APP 被下架
 
 大概与与游戏本身无关，不过我觉得对比其乐[其乐](/website/其乐)莫名其妙就被关闭两周，这种差异值得探讨。
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-10-03T13:26:10.219Z
 ---
 
-# 禁止与美国的社会政治问题有关的MOD
+## 禁止与美国的社会政治问题有关的MOD
 
 > 最近，我们看到了一系列围绕美国当前社会政治问题的挑衅者和喷子。随着我们临近11月的美国大选，我们预计这种趋势会像4年前的这个时候一样增加。
 >
@@ -30,7 +30,7 @@ dateCreated: 2020-10-03T13:26:10.219Z
 
 2020年10月3日，目前我在 Nexus Mods 搜索 Trump 能找到42个 MOD。
 
-## 相关新闻及讨论
+### 相关新闻及讨论
 
 + [Game modding site Nexus Mods is banning US political mods for the rest of 2020](https://web.archive.org/web/20201003124730/https://www.theverge.com/2020/10/1/21497067/nexus-mods-bans-us-political-troll-content-moderation-policy-change)
 + [世界最大MOD网站N网将封禁所有涉美国政治MOD_3DM单机](https://archive.is/XaCAs "https://www.3dmgame.com/news/202010/3798795.html")

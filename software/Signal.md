@@ -8,21 +8,21 @@ editor: markdown
 dateCreated: 2020-10-07T02:01:04.126Z
 ---
 
-# 由大陆手机号注册的 IOS 版 Signal 无法使用 CallKit
+## 由大陆手机号注册的 IOS 版 Signal 无法使用 CallKit
 
 这大概是苹果公司的问题
 
-# 注册以及登录时无法收到手机验证码
+## 注册以及登录时无法收到手机验证码
 
 + [Signal ios App 收不到手机验证码，为什么呢？短信和电话验证方式都试过，都收不到，这样就注册不了了。 - V2EX](https://web.archive.org/web/20201007015113/https://www.v2ex.com/t/688953)
 
-# 登录页面收到网络封锁
+## 登录页面收到网络封锁
 
 + [手机聊天软件Signal无法验证登录？ - 知乎](https://web.archive.org/web/20201007015109/https://www.zhihu.com/question/48763242)
 
-# 使用时，网络劣化
+## 使用时，网络劣化
 
-# 受到的审查比起其他软件更少？
+## 受到的审查比起其他软件更少？
 
 + [微信被封 这款代替软件下载量激增 竟没被“墙” 光传媒](https://web.archive.org/web/20201007015442/https://www.ipkmedia.com/微信被封-这款代替软件下载量激增-竟没被墙/)
 + [As Trump bans WeChat, some in China turn to encrypted messaging app Signal - NBC News](https://web.archive.org/web/20201007015700if_/https://www.nbcnews.com/tech/security/trump-bans-wechat-some-china-turn-encrypted-messaging-app-signal-n1236184)

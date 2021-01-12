@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-10-10T09:09:02.162Z
 ---
 
-# 2020年社区维护通知
+## 2020年社区维护通知
 
 > 由于其乐社区接收到上级通知，需要清理一下论坛中的违规内容，故论坛从2020年9月18日0点 - 10月2日0点，为期两周关闭访问，进行清理。[^1]
 >
@@ -27,11 +27,11 @@ dateCreated: 2020-10-10T09:09:02.162Z
 >
 > P.S 某些版块的自动关闭条件也无需担心，比如交易帖
 
-## 原创研究
+### 原创研究
 
 有人猜测论坛被整顿两周是由于「魔法学院」这个板块，这个板块似乎主要讨论的是翻墙(Proxy)，进入该板块所需要的账号等级也不低。
 
-## 相关网页
+### 相关网页
 
 + [其乐社区 2020年9月18日0点 - 10月2日0点 社区维护通知 - 第3页 - 社区公告 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/HKVEx "https://keylol.com/t642768-3-1")
 + [Steam Community :: Group :: Keylol Player Club](https://web.archive.org/web/20200919034346/https://steamcommunity.com/groups/keylol-player-club/announcements/detail/2904215582014247749)

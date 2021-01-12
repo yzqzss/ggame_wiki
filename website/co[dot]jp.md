@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-10-10T09:08:58.801Z
 ---
 
-# 2012年6月约30个小时的封锁
+## 2012年6月约30个小时的封锁
 
 > 显示日本IP地址的“co.jp”网站，从15日开始到现在，在中国的点击都无法打开。原因目前还是不明，不排除中国政府有关部门实施封锁的可能性。
 >
@@ -16,7 +16,7 @@ dateCreated: 2020-10-10T09:08:58.801Z
 >
 > 日本新闻网刚才通过中国网友，试着点击了日本几大新闻媒体的网站，结果属于“co.jp”地址的日本雅虎、读卖新闻、东京新闻等都无法打开。而非“co.jp”地址的日本经济新闻、朝日新闻等使用“com”地址的网站都可以打开。另外使用“jp”的共同社和产经新闻网站也可以打开。[^13213]
 
-[^13213]: [从中国无法连接日本co.jp网站_日本新闻网,日本新聞網](https://web.archive.org/web/20120619202942/http://www.ribenxinwen.com/html/d/201206/16-13213.html)
+    [^13213]: [从中国无法连接日本co.jp网站_日本新闻网,日本新聞網](https://web.archive.org/web/20120619202942/http://www.ribenxinwen.com/html/d/201206/16-13213.html)
 
 > 日本co.jp域名疑被屏蔽
 >
@@ -36,7 +36,7 @@ dateCreated: 2020-10-10T09:08:58.801Z
 
 [^2012]: [China Blocks Its First Top-Level Domain: Co.Jp Sites Down for 30 Hours](https://web.archive.org/web/20200813010336/https://thenextweb.com/asia/2012/06/18/chinas-great-firewall-blocks-its-first-top-level-domain-as-co-jp-sites-go-down-for-30-hours/)
 
-## co.jp 简介
+### co.jp 简介
 
 这是日本非常流行的顶级域名，即使是跨国企业，一般也会有这样的域名。目前注册的域名超过43万个[^jprs]
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-10-06T13:40:19.445Z
 ---
 
-# IOS 大陆区下架
+## IOS 大陆区下架
 
 > I received the same message today. Fiery Feeds Is now no longer available on the Chinese App Store as well.[^1310553289545658369]
 >
@@ -18,7 +18,7 @@ dateCreated: 2020-10-06T13:40:19.445Z
 
 [^1310553289545658369]: [Fiery Feeds on Twitter: "I received the same message… "](https://archive.is/cXSo9 "https://twitter.com/FieryFeeds/status/1310553289545658369")
 
-## 相关链接
+### 相关链接
 
 + 评论区已消失 [苹果中国区 App Store 应用商店下架两款 RSS Feed 阅读器 - App Store,苹果 - IT之家](https://archive.is/kU803 "https://www.ithome.com/0/511/865.htm")
 + [又有两款知名 RSS 阅读器从中国 App Store 下架 - 楠木轩](https://web.archive.org/web/20201006134058/https://www.nanmuxuan.com/science/hhkfjloipuv.html)

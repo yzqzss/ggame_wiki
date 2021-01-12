@@ -10,7 +10,7 @@ dateCreated: 2020-12-07T15:35:14.659Z
 
 为了规避审查，所以将原本以爱为基准的剧情，修改为兄弟情。这就是耽改剧。[^tjxttfvc]
 
-[^tjxttfvc]: [被“异性恋化”的耽美剧 - 重木 (@lijieriluo0609)](https://web.archive.org/web/20201207152903if_/https://matters.news/@lijieriluo0609/%E8%A2%AB-%E5%BC%82%E6%80%A7%E6%81%8B%E5%8C%96-%E7%9A%84%E8%80%BD%E7%BE%8E%E5%89%A7-bafyreiderqpzsby6qo6tjxttfvcht6ogqzww55t5p4rdphmwojkwxynos4)
+[^tjxttfvc]: [被“异性恋化”的耽美剧 - 重木 (@lijieriluo0609)](https://web.archive.org/web/20201207152903if_/https://matters.news/@lijieriluo0609/被-异性恋化-的耽美剧-bafyreiderqpzsby6qo6tjxttfvcht6ogqzww55t5p4rdphmwojkwxynos4)
 
 即使和谐至此如此还是传出了这种类型的电视剧可能会被禁止的风声。[^cv5121469]
 

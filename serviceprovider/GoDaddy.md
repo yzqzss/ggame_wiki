@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-10-07T04:03:33.095Z
 ---
 
-# 2010年5月 GoDaddy 主机遭封锁
+## 2010年5月 GoDaddy 主机遭封锁
 
 > 今天上午博客突然不能访问，看了下主机没问题，也能ping通，不过服务器上的几个网站都不能访问。习惯性的打开VPN，发现又能访问了，访问了下朋友使用godaddy主机做的网站，发现也都不能访问，断定，godaddy主机上所有的网站和谐，只是不知是短期还是长期封锁~！
 >
@@ -16,7 +16,7 @@ dateCreated: 2020-10-07T04:03:33.095Z
 
 [^360]: [godaddy主机遭封锁 启光微博](https://web.archive.org/web/20201007024357/https://www.iewb.net/blog/wb/360.htm)
 
-# 2011年7月 GoDaddy DNS 被封锁
+## 2011年7月 GoDaddy DNS 被封锁
 
 > 域名解析的白名单时代终于要到来了，中国部分DNS服务商屏蔽海外DNS服务器地址，导致该DNS服务器解析的所有域名都无法访问。
 >
