@@ -8,6 +8,6 @@ editor: markdown
 dateCreated: 2020-10-06T14:35:55.937Z
 ---
 
-# 项目域名受到DNS污染
+## 项目域名受到DNS污染
 
 [项目域名受到DNS污染·问题＃4330·DIYgod / RSSHub·GitHub](https://web.archive.org/web/20201006135524/https://github.com/DIYgod/RSSHub/issues/4330)
