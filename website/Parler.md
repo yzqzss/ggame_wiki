@@ -2,7 +2,7 @@
 title: Parler
 description: 一款审查宽松的微型博客型社交网络服务
 published: true
-date: 2021-01-12T14:24:04.513Z
+date: 2021-01-14T14:12:33.140Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-12T14:24:04.513Z
@@ -13,6 +13,12 @@ dateCreated: 2021-01-12T14:24:04.513Z
 一款审查宽松的微型博客型社交网络服务
 
 因为「2021年冲击美国国会大厦事件」事件的影响，苹果、谷歌、亚马逊网络巨头均对 Parler 进行了严厉的封禁，前两将 Parler 从商店中下架，亚马逊将托管服务器关闭。
+
+Parler 负责人迅速寻找新的服务器供应商，但短信服务、邮件服务甚至律师都抛弃了 Parler。[^pis_ceo_say][^pis_ceo_say2]
+
+[^pis_ceo_say]: [Parler CEO Says Service Dropped By “Every Vendor” Could End Business – Deadline](https://web.archive.org/web/20210113040749/https://deadline.com/2021/01/parler-ceo-says-service-dropped-by-every-vendor-and-could-end-the-company-1234670607/)
+
+[^pis_ceo_say2]: [Parler CEO says even his lawyers are abandoning him - The Verge](https://web.archive.org/web/20210113000834/https://www.theverge.com/2021/1/10/22223956/parler-ceo-john-matze-lawyers-vendors-abandoning)
 
 ### 相关链接
 
