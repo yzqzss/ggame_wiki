@@ -2,7 +2,7 @@
 title: 三星港版手机
 description: 
 published: true
-date: 2021-01-15T14:21:58.934Z
+date: 2021-01-16T02:45:57.805Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-15T14:21:58.934Z
@@ -24,6 +24,7 @@ dateCreated: 2021-01-15T14:21:58.934Z
 + [三星手机让香港澳门用户使用中国大陆的 DNS 服务 - 奇客Solidot](https://web.archive.org/web/20201101073847/https://www.solidot.org/story?sid=65835)
 + [Samsung Galaxy手機爆安全漏洞 Wifi自動連接中資伺服器 公司未否認：不儲存個人資訊 - 蘋果日報](https://web.archive.org/web/20201030112806/https://hk.appledaily.com/finance/20201010/XK6CO4JETFGYLCUHUSFRO77BF4/)
 + [網傳 Samsung 手機「資料送中」？上網行蹤直上 114DNS - ePrice.HK](https://web.archive.org/web/20201021015807/https://www.eprice.com.hk/mobile/talk/4523/216867/1/)
++ [危險！網指 Samsung 港行電話愛用中國 DNS 連綫 - ezone.hk - 網絡生活 - 網絡熱話 - D201008](https://web.archive.org/web/20201031172234/https://ezone.ulifestyle.com.hk/article/2772252/危險！網指 Samsung 港行電話愛用中國 DNS 連綫)
 
 #### Headuck 的研究
 
