@@ -33,3 +33,8 @@ dateCreated: 2021-01-25T14:48:05.011Z
 ![纽约时报](/src/photo/Pindoo_RSS/nyt_b.png)
 
 ![特别说明](/src/photo/Pindoo_RSS/Q&A.png)
+
+<!--
+https://web.archive.org/web/20210125041252/https://i.imgur.com/aeMvorAl.png
+[‎App Store 上的“品读RSS”](https://web.archive.org/web/20210125015526if_/https://apps.apple.com/us/app/%E5%93%81%E8%AF%BBrss/id1500275364?l=zh)
+-->
