@@ -2,7 +2,7 @@
 title: 微信公众号
 description: 一个依附于微信这款即时通讯软件的十分封闭但高度商业化的博客系统
 published: true
-date: 2021-01-31T10:59:08.096Z
+date: 2021-02-01T12:30:26.606Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-31T10:59:08.096Z
@@ -12,6 +12,7 @@ dateCreated: 2021-01-31T10:59:08.096Z
 
 2021年1月的这项新规定可能导致微信公众号里的时政评论变少。
 
++ [又一批公众账号要凉？微信、搜狐号、百家号等平台出新要求！](https://archive.is/6sViQ "https://mp.weixin.qq.com/s/VrJlhM2g_2jUBlw7n2sW1g")
 + [又一批公众号要凉？微信重磅新规，没有新闻资质这些内容别发！_信息](https://web.archive.org/web/20210130114632/https://www.sohu.com/a/447093398_282116)
 + [这些网络自媒体怎么舔也没用 铁拳早晚都要砸下来的 : chonglangTV](https://archive.is/al7vo "https://old.reddit.com/r/chonglangTV/comments/l7mimq/这些网络自媒体怎么舔也没用_铁拳早晚都要砸下来的/")
 + [国家网信办修订《互联网用户公众账号信息服务管理规定》发布施行-中新网](https://web.archive.org/web/20210130114832/http://www.chinanews.com/gn/2021/01-22/9394317.shtml)
