@@ -2,7 +2,7 @@
 title: 品读RSS
 description: 一款 iOS 端专注于中文阅读的 RSS 阅读器
 published: true
-date: 2021-01-25T14:48:05.011Z
+date: 2021-02-01T12:23:03.270Z
 tags: rss
 editor: markdown
 dateCreated: 2021-01-25T14:48:05.011Z
@@ -24,6 +24,8 @@ dateCreated: 2021-01-25T14:48:05.011Z
 
 > This app got removed from the China App Store by Apple, and they warned me the app must comforms with all local laws.
 
+截至2021年1月27日左右，作者回复了提问的软件用户，称和谐是为了在大陆区上架，不过现在不打算在大陆区上架了，最新的更新已经移除了阅读与订阅的审查。
+
 ### 几张相关图片
 
 ![BBC](/src/photo/Pindoo_RSS/bbc_b.png)
@@ -34,7 +36,4 @@ dateCreated: 2021-01-25T14:48:05.011Z
 
 ![特别说明](/src/photo/Pindoo_RSS/Q&A.png)
 
-<!--
-https://web.archive.org/web/20210125041252/https://i.imgur.com/aeMvorAl.png
-[‎App Store 上的“品读RSS”](https://web.archive.org/web/20210125015526if_/https://apps.apple.com/us/app/%E5%93%81%E8%AF%BBrss/id1500275364?l=zh)
--->
+![作者的回信](/src/photo/Pindoo_RSS/message.jpg)
