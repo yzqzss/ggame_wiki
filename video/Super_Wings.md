@@ -2,7 +2,7 @@
 title: 超级飞侠
 description: 由三个国家的三家公司联合制作的热门动画
 published: true
-date: 2021-03-18T11:33:07.884Z
+date: 2021-03-18T11:33:41.529Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T11:33:07.884Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-18T11:33:07.884Z
 
 ## 修改与下架
 
-3月1日开始超级飞侠在大陆开始修改与下架，[穆阿蒂布@weibo](https://archive.is/zxDPy "https://weibo.com/ChinaCS7") 可能对此事负一些责任。
+2021年3月1日开始超级飞侠在大陆开始被修改与下架，[穆阿蒂布@weibo](https://archive.is/zxDPy "https://weibo.com/ChinaCS7") 可能对此事负一些责任。
 
 ### 相关报道
 
