@@ -2,7 +2,7 @@
 title: Signal
 description: 一款流行的端对端加密即时通讯软件
 published: true
-date: 2021-03-18T11:47:13.356Z
+date: 2021-03-18T12:05:47.279Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T10:40:04.960Z
@@ -21,6 +21,8 @@ dateCreated: 2021-03-18T10:40:04.960Z
 + [手机聊天软件Signal无法验证登录？ - 知乎](https://web.archive.org/web/20201007015109/https://www.zhihu.com/question/48763242)
 
 ## 使用时，网络劣化
+
+难以发送图片等较大文件。
 
 ## 受到的审查比起其他软件更少？
 
