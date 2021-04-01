@@ -1,11 +1,11 @@
 ---
 title: 毛泽东选集真相
 description: 
-published: false
-date: 2021-01-31T10:55:37.476Z
+published: true
+date: 2021-04-01T15:51:21.485Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-31T10:55:37.476Z
+dateCreated: 2021-03-18T10:40:56.524Z
 ---
 
 ## 清除互联网记忆
