@@ -2,7 +2,7 @@
 title: 2021年淘宝主机游戏下架
 description: 
 published: true
-date: 2021-04-01T15:29:37.986Z
+date: 2021-04-01T15:35:39.085Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-01T15:29:37.986Z
@@ -32,8 +32,9 @@ dateCreated: 2021-04-01T15:29:37.986Z
 + [传某老板被抓 淘宝拼多多纷纷下架海外版游戏 - 纪元2000](https://web.archive.org/web/20210331030747/https://www.epochtimes.com/gb/21/3/29/n12843651.htm)
 + [网传国内电商平台大规模下架海外游戏、主机 _ 游民星空 GamerSky.com : China_irl](https://web.archive.org/web/20210331031821/https://old.reddit.com/r/China_irl/comments/mg2gnt/网传国内电商平台大规模下架海外游戏主机_游民星空_gamerskycom/)
 + [同事的rise快递丢件了，然后后面更惨 NGA玩家社区](https://archive.is/2e28Q "https://bbs.nga.cn/read.php?tid=26114882")
-+ [淘宝大规模下架任天堂游戏机，PS5、Xbox Series X/S海外版也下架|xbox_网易订阅](https://archive.is/ETo2y "https://www.163.com/dy/article/G6DC2JQS0519D4UH.html")
++ [淘宝大规模下架任天堂游戏机，PS5、Xbox Series X/S海外版也下架 - xbox_网易订阅](https://archive.is/ETo2y "https://www.163.com/dy/article/G6DC2JQS0519D4UH.html")
 + [#淘宝游戏机下架# 微博搜索](https://archive.is/ejMpb "https://s.weibo.com/weibo?q=%23淘宝游戏机下架%23")
++ [淘宝大量海外版游戏主机下架，部分游戏店铺已清空店面 - 界面新闻 · 游戏](https://web.archive.org/web/20210401153220/https://www.jiemian.com/article/5889148.html "https://www.jiemian.com/article/5889148.html")
 
 #### 知乎
 
