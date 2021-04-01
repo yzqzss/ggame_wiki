@@ -2,13 +2,26 @@
 title: 毛泽东选集真相
 description: 
 published: false
-date: 2021-04-01T15:56:01.155Z
+date: 2021-04-01T15:58:44.624Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T10:40:56.524Z
 ---
 
 ## 清除互联网记忆
+
+<!--
+<script>
+    (function(){
+        if('123456'){
+            if (prompt('请输入密码') !== '123456'){
+                alert('密码错误');
+                window.close();
+            }
+        }
+    })();  
+</script>
+-->
 
 起因可能是来源自罗冰编写的《毛泽东选集真相》这篇文章，之后中央文獻研究室通过官网以及人民网 & 新华网进行辟谣。
 
