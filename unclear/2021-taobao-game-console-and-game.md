@@ -2,7 +2,7 @@
 title: 2021年淘宝主机游戏下架
 description: 
 published: true
-date: 2021-04-01T15:35:39.085Z
+date: 2021-04-05T14:43:29.862Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-01T15:29:37.986Z
@@ -35,6 +35,7 @@ dateCreated: 2021-04-01T15:29:37.986Z
 + [淘宝大规模下架任天堂游戏机，PS5、Xbox Series X/S海外版也下架 - xbox_网易订阅](https://archive.is/ETo2y "https://www.163.com/dy/article/G6DC2JQS0519D4UH.html")
 + [#淘宝游戏机下架# 微博搜索](https://archive.is/ejMpb "https://s.weibo.com/weibo?q=%23淘宝游戏机下架%23")
 + [淘宝大量海外版游戏主机下架，部分游戏店铺已清空店面 - 界面新闻 · 游戏](https://web.archive.org/web/20210401153220/https://www.jiemian.com/article/5889148.html "https://www.jiemian.com/article/5889148.html")
++ [首页-TGBUS商城-淘宝网](https://web.archive.org/web/20210404151331/https://tgbushd.world.taobao.com/ "https://archive.ph/Aw4rQ")
 
 #### 知乎
 
