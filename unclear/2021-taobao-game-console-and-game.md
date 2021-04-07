@@ -2,7 +2,7 @@
 title: 2021年淘宝主机游戏下架
 description: 
 published: true
-date: 2021-04-05T14:43:29.862Z
+date: 2021-04-07T07:02:39.461Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-01T15:29:37.986Z
@@ -12,7 +12,7 @@ dateCreated: 2021-04-01T15:29:37.986Z
 
 + 大量电玩店铺下架大量游戏与主机[^gcl_01]
 + 理由跟仓库有关，比如漏水或者仓库升级
-+ 剩下的游戏价格与京东接近
++ 淘宝剩下的游戏价格与京东接近，应该是交了税的游戏
 
 [^gcl_01]: [更新一下 比较信服的一个说法是深圳海关... 来自丽丽-风暴烈口 - 微博](https://archive.is/ykJDR "https://weibo.com/1233961201/K8rP8Dct9")
 
@@ -21,6 +21,10 @@ dateCreated: 2021-04-01T15:29:37.986Z
 + 深圳缉私队抓走了某电玩的老板，封锁了仓库，导致其他依靠该货源的店铺无法营业，所以下架了没有的商品[^gcl_02]
 
 [^gcl_02]: [主机游戏水货市场经历过山车，半数淘宝店下架未过审游戏](https://archive.is/vi5ED "https://posts.careerengine.us/p/60633dc29a3e7928f1600025")
+
+<!--
+有一个问题，过海关会被审查，文娱相关的商品属于出版物，如果不逃检查，法律上是否允许境外游戏入关。
+-->
 
 ### 相关链接
 
@@ -36,6 +40,17 @@ dateCreated: 2021-04-01T15:29:37.986Z
 + [#淘宝游戏机下架# 微博搜索](https://archive.is/ejMpb "https://s.weibo.com/weibo?q=%23淘宝游戏机下架%23")
 + [淘宝大量海外版游戏主机下架，部分游戏店铺已清空店面 - 界面新闻 · 游戏](https://web.archive.org/web/20210401153220/https://www.jiemian.com/article/5889148.html "https://www.jiemian.com/article/5889148.html")
 + [首页-TGBUS商城-淘宝网](https://web.archive.org/web/20210404151331/https://tgbushd.world.taobao.com/ "https://archive.ph/Aw4rQ")
+
++ [“水货”游戏机？禁止通行！ 广东缉私](https://archive.is/PzBDa "https://web.archive.org/web/20210406014058/https://mp.weixin.qq.com/s/SEzbrVLsW4NY2x6hr-mGYQ")
++ [“水货”游戏机？禁止通行！ - AcFun弹幕视频网](https://web.archive.org/web/20210406014222/https://www.acfun.cn/a/ac27428075)
++ [“水货”游戏机？禁止通行！ - 哔哩哔哩专栏](https://archive.is/B8zFl "https://www.bilibili.com/read/cv10594415/")
++ [一周游戏见闻：在游戏世界里围观「长赐」堵河、大量电玩店铺被封等 - 少数派](https://web.archive.org/web/20210406014442/https://sspai.com/post/65870)
++ [#海外版switch游戏机大量下架# 网店客... 来自红星新闻 - 微博](https://archive.is/e1L9m "https://weibo.com/6105713761/K8BGyCHTq")
++ [游戏机逃税3年4亿！涉案金额占全国四分之一，水货市场从此消失？ - 水货商_网易订阅](https://archive.is/9mElF "https://www.163.com/dy/article/G6QTISCB0526D7OK.html")
++ [记一场席卷中国水货主机游戏行业的〖飓风〗 - 新·品葱](https://web.archive.org/web/20210406014216/https://pincong.rocks/article/31017)
++ [中国电商平台大规模下架海外游戏、主机 - 新·品葱](https://web.archive.org/web/20210406160435/https://pincong.rocks/article/30884)
++ [“水货”游戏机被禁了，《怪物猎人：崛起》可能是原罪__财经头条](https://web.archive.org/web/20210403124136/https://t.cj.sina.com.cn/articles/view/2953054937/b0040ad901900uoo4)
++ [【NS日常新闻】电商大面积下架主机游戏 怪猎有望首款千万销量第三方](https://archive.ph/fwwfF "https://weibo.com/ttarticle/p/show?id=2309404620237298598067")
 
 #### 知乎
 
