@@ -2,7 +2,7 @@
 title: 在治超站自杀的货车司机
 description: 
 published: true
-date: 2021-04-10T04:37:15.247Z
+date: 2021-04-10T05:58:13.643Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-10T04:04:50.190Z
@@ -61,6 +61,25 @@ dateCreated: 2021-04-10T04:04:50.190Z
 + [我与胡主编在国际问题上有许多异见，但在这件事上难得有同理心。 - 知乎](https://archive.is/MNgrg "https://www.zhihu.com/question/453444389/answer/1825274271")
 + [那么背这个锅的人，就少不了了。这串蚂蚱，可不少。 - 知乎](https://archive.is/lnk4S "https://www.zhihu.com/question/453444389/answer/1825786684")
 + [所谓“北斗掉线”，锅该卫星来背吗？_京报网](https://archive.is/4n1Pq "https://news.bjd.com.cn/tech/2021/04/10/68017t133.html")
++ [地上的问题，怪到天上去了，有用吗？ - 知乎](https://archive.is/2H9cV)
++ [秦朝并没有明文的失期当斩。 - 知乎](https://archive.is/5P8e0 "https://www.zhihu.com/question/453444389/answer/1827126378")
++ [有两个问题我一直想知道，但翻了半天也没看到人说（可能被删了） - 知乎](https://archive.is/uqNDF "https://www.zhihu.com/question/453444389/answer/1825744928")
++ [一众媒体只关心凉粉的技术甩锅问题，反而忽略了六子是因为什么死的。 - 知乎](https://archive.is/GWJLZ "https://www.zhihu.com/question/453444389/answer/1825936201")
++ [交通运输行业从事者来了 - 知乎](https://archive.is/6hk6Z "https://www.zhihu.com/question/453444389/answer/1826314719")
++ [作为前相关系统开发人员，硬件问题真的很多，软件系统问题也很多 - 知乎](https://archive.is/SfLCT "https://www.zhihu.com/question/453444389/answer/1824566417")
++ [罚款不是目的，目的就是罚款。 - 知乎](https://archive.is/sCrdx "https://www.zhihu.com/question/453444389/answer/1825765676")
++ [我翻开历史一查 这历史没有年代 - 知乎](https://archive.is/sqqtI "https://www.zhihu.com/question/453444389/answer/1826467602")
++ [某些组织吃相太难看了。 - 知乎](https://archive.is/12971 "https://www.zhihu.com/question/453444389/answer/1827266777")
++ [这里就得提一点了：工会！ - 知乎](https://archive.is/3oyc4 "https://www.zhihu.com/question/453444389/answer/1825892370")
++ [自杀简直害人害己，新闻热度一过，死了白死 - 知乎](https://archive.is/ypqWC "https://www.zhihu.com/question/453444389/answer/1826099669")
++ [所有的事都有意义，所有的事都有联系。 - 知乎](https://archive.is/hp7Ha "https://www.zhihu.com/question/453444389/answer/1825405249")
++ [回答被删了3次，我闭嘴  - 知乎](https://archive.is/RMNhO "https://www.zhihu.com/question/453444389/answer/1827107015")
++ [不说别的，这么这么件群众关心的大事都上不了微博热搜… - 知乎](https://archive.is/fu2Wv "https://www.zhihu.com/question/453444389/answer/1825607332")
++ [翻了一圈回答，看来正常人还是有的，只不过他们都不被允许发声和出现。 - 知乎](https://archive.is/ynFtw "https://www.zhihu.com/question/453444389/answer/1827103551")
++ [都在帮司机说话的，说帮过执法人员说话？ - 知乎](https://archive.is/7P9Q6 "https://www.zhihu.com/question/453444389/answer/1827012978")
++ [到底是那些力量在逼大车司机疲劳驾驶？ - 知乎](https://archive.is/jrUMm "https://www.zhihu.com/question/453444389/answer/1827378060")
++ [#官方通报货车司机服农药死亡事件#记者... 来自红星新闻 - 微博](https://archive.is/nCyO8 "https://weibo.com/6105713761/Kaem3wIK0")
++ [唐山公布货车司机服用农药死亡事件调查结果 - 每经网](https://archive.is/bQyC9 "http://www.nbd.com.cn/articles/2021-04-10/1691701.html")
 
 <!--
 [北斗系统“掉线”闹出人命 中国定位技术有效性受质疑 — 普通话主页](https://web.archive.org/web/20210409155858/https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/ql1-04082021060141.html)
