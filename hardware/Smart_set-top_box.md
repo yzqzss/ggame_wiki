@@ -2,7 +2,7 @@
 title: 智能机顶盒
 description: 
 published: true
-date: 2021-04-18T04:28:30.035Z
+date: 2021-04-18T04:30:42.698Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-18T04:28:30.035Z
@@ -48,12 +48,16 @@ dateCreated: 2021-04-18T04:28:30.035Z
 
 ## 酷开荣耀A55
 
-这是华为的荣耀与创维的酷开合作推出的「平板电脑」，特点是很大，达到55寸，没有电视常见的功能，只有一个 HDMI 接口，以此绕过广电的禁令。
+这是华为的荣耀与创维的酷开在 2015年 合作推出的「平板电脑」，特点是很大，达到55寸，没有电视常见的功能，只有一个 HDMI 接口，以此绕过广电的禁令。
 
 主要用法是用支持 Airplay，Miracast 的手机进行投屏，以及第三方软件。虽然现在最新系统是受到限制的类 Android 系统，厂家还是留下了后门，输入 55559510 这串密码到「小程序」，就能解锁 U盘安装 apk 的功能。
 
+也就是说这款产品最后还是没能绕过广电的限制。
+
 + [55 寸的平板酷开荣耀 A55 真的不归新闻出版广电总局管吗？如何看待这个产品？ - 华为 - 知乎](https://web.archive.org/web/20150601010622/http://www.zhihu.com/question/26022363)
 + [荣耀酷开A55绕得开广电总局的监管吗？ - 雷锋网](https://web.archive.org/web/20200930193015/https://www.leiphone.com/news/201410/56deI8Tv0Z6vbft3.html)
++ [华为的客厅之路，走对了路穿错了鞋 - 雷锋网](https://web.archive.org/web/20141016053028/http://www.leiphone.com/news/201410/i3Ipxn3z0imghIcA.html)
++ [6999元荣耀A55，你打算卖给谁？ - 雷锋网](https://web.archive.org/web/20141017031433/http://www.leiphone.com/news/201410/m2E1xnh5xhXFsLJz.html)
 
 ## 2015年限制第三方软件并进一步限制系统
 
