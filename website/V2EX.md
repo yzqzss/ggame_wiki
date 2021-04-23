@@ -2,10 +2,10 @@
 title: V2EX
 description: 
 published: true
-date: 2021-01-31T11:22:10.681Z
+date: 2021-04-23T10:45:12.442Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-31T11:22:10.681Z
+dateCreated: 2021-03-18T10:43:01.642Z
 ---
 
 V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，必定需要做出许多的限制。
@@ -99,3 +99,53 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 <!--
 + [来自百度取证的证据分享](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
 -->
+
+## 2021年4月 V2EX 被封锁
+
+> Since Apr 11, 2021, V2EX's domain is experiencing DNS poisoning + SNI filter on the networks of China broadband providers. 从 2021 年 4 月 11 开始，V2EX 的域名在中国大陆运营商的网络上开始遇到 DNS 污染及 SNI 阻断。[^21v2_lot]
+>
+> @Livid
+
+[^21v2_lot]: https://web.archive.org/web/20210423063440/https://twitter.com/Livid/status/1381499078593236998
+
+### 2021年2月初小面积无法连接
+
++ [v2ex.com是不是彻底被墙了-美国VPS综合讨论 - 全球主机交流论坛](https://web.archive.org/web/20210423052535/https://hostloc.com/thread-809845-1-1.html)
++ [v2ex.com 被墙了？-美国VPS综合讨论 - 全球主机交流论坛](https://web.archive.org/web/20210423052536/https://hostloc.com/thread-803655-1-1.html)
+
+### 似乎普通讨论的手机限制已解除
+
+本来我想测试以下未认证手机情况，回复跳转到 https://www.v2ex.com/restricted 的效果，结果似乎现在我的账号未通过手机认证就能发送回复了。
+
+不过「水深火热」节点我依然无法进入。
+
++ [异步中 await 和 then 的区别，哪个更好 - V2EX](https://web.archive.org/web/20210423092112/https://www.v2ex.com/t/772610#reply38)
++ [异步中 await 和 then 的区别，哪个更好 - V2EX](https://archive.is/yC5BZ)
++ [V2EX › gledos](https://web.archive.org/web/20210423092142/https://www.v2ex.com/member/gledos)
++ [V2EX › gledos](https://archive.is/zFKCG)
+
+### 相关讨论
+
+大多数在 V2EX 的被封锁讨论都已经转入了隐藏节点「水深火热」或者直接标记为需要登录查看。
+
+并且 V2EX 也在被封锁的前后，似乎临时增加了一些门槛。部分帖子查看要求增加到1000天注册用户。[^21v2_769]
+
+[^21v2_769]: 需登录 [为啥这个帖子会重定向到 v 站首页？ - V2EX](https://v2ex.com/t/769231)
+
++ [杭州无法正常访问吗，感觉有一个月了 - V2EX](https://web.archive.org/web/20210423062103/https://www.v2ex.com/t/771007)
++ 已隐藏 [V 站已经彻底被墙了是么? - V2EX](https://archive.is/bJlto "https://www.v2ex.com/t/770920")
++ 已隐藏 [V2 是不是被墙了？ - V2EX](https://archive.is/i1Yyf "https://www.v2ex.com/t/771224")
++ [v2ex 挂了 - 链滴](https://web.archive.org/web/20210423054102/https://ld246.com/article/1618193159520)
++ [V2EX 应该是被墙了 - 链滴](https://web.archive.org/web/20210423054106/https://ld246.com/article/1618499960860)
++ [V站被墙了吗？ - CNode技术社区](https://web.archive.org/web/20210423054201/https://cnodejs.org/topic/6073fa5d4d20cb0fee68b77c)
++ [V2EX 再次被屏蔽 - 奇客Solidot](https://web.archive.org/web/20210423053010/https://www.solidot.org/story?sid=67471)
++ [GeXiao on Twitter: "扫了眼这次 V2EX 彻底被墙的讨论，没亲身下场干过的人哪怕是互联网从业者......"](https://archive.is/6jkAo "https://twitter.com/gxgexiao/status/1381870967811567619")
+
+### 直接证据
+
++ [2021-04-23 www.v2ex.com GET测试结果 网站速度测试 17CE](https://archive.is/TYkOv "http://www.17ce.com/site/http/20210423_db4ddc00a3f511eb947f5743479ea7f2:1.html")
++ [月光博客 on Twitter: "国内知名开发社区v2ex域名解析疑似被DNS污染，目前已经无法从国内访问，国内解析其域名会被解析到错误的IP地址。… "](https://web.archive.org/web/20210423080429/https://twitter.com/williamlong/status/1381868729051451397)
++ [知名开发社区：v2ex域名DNS被污染-资讯-宋九九博客](https://web.archive.org/web/20210423055843/https://songjiujiu.com/post/2911)
++ [知名社交网站v2ex被DNS污染了 - 主机吧](https://web.archive.org/web/20210423091927/https://www.zhujib.com/v2ex.html)
++ 百度搜索 v2ex.com 无任何结果 [v2ex.com_百度搜索](https://archive.is/yWRjU "https://www.baidu.com/#ie=UTF-8&wd=v2ex.com")
+
