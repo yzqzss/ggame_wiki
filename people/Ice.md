@@ -2,7 +2,7 @@
 title: Ice
 description: 前雷亚游戏音乐总监
 published: true
-date: 2021-05-04T06:42:07.785Z
+date: 2021-05-04T06:43:16.929Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-04T06:42:07.785Z
@@ -16,7 +16,9 @@ Ice 此时负责的游戏《Cytus II》也下架了一段时间，上架时删�
 
 [^200363]: [《Cytus 2》中國版《音樂世界 Cytus 2》釋出公告 將刪除多首樂曲並嚴格審查遊戲內容《Cytus II》 - 巴哈姆特](https://web.archive.org/web/20201030185406/https://gnn.gamer.com.tw/detail.php?sn=200363)
 
-事件发生后 腾讯QQ 屏蔽了大部分音游的群搜索关键词。
+事件发生后 腾讯QQ 屏蔽了大部分音游的群搜索关键词。[^qq_yy]
+
+[^qq_yy]: [「速报」QQ搜索已屏蔽了大多数音游关键词，音游群何去何从？ - 哔哩哔哩](https://archive.is/E19rK "https://www.bilibili.com/video/BV1aC4y1b7TX")
 
 + 涉及辱华的内容
   + 《Telegraph : 1344 7609 2575》1分11秒出现了不该出现的宣传语的电报信号
