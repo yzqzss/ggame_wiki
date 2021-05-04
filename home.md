@@ -2,10 +2,10 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: 2020-12-10T10:14:40.326Z
+date: 2021-05-04T06:51:00.239Z
 tags: 
 editor: markdown
-dateCreated: 2020-10-10T09:02:28.892Z
+dateCreated: 2021-03-18T10:32:32.947Z
 ---
 
 和谐游戏
@@ -38,4 +38,4 @@ dateCreated: 2020-10-10T09:02:28.892Z
 源码
 ----
 
-[这里](https://github.com/gledos/ggame_wiki)可以查看到所有的条目的源码
+[这里](https://github.com/gledos/ggame_wiki)可以查看到所有的条目的 Markdown Raw 文本。
