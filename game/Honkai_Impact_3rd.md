@@ -2,7 +2,7 @@
 title: 崩坏3
 description: 
 published: true
-date: 2021-05-07T15:42:36.644Z
+date: 2021-05-07T15:50:50.192Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-07T15:42:36.644Z
@@ -54,9 +54,9 @@ dateCreated: 2021-05-07T15:42:36.644Z
 
 ### 网易云音乐下架 BRILLIANT BRIGHT
 
-[Brilliant Brightness - Dolorvotre - 单曲 - 网易云音乐](https://archive.is/K2cQl "https://music.163.com/#/song?id=569653914")
-[Future is Mine - MYTH & ROID - 专辑 - 网易云音乐](https://archive.is/kTM4X "https://music.163.com/#/album?id=97521297")
-[[氵] MYTH & ROID新歌BRILLIANT BRIGHT网易云被绿者冲下架 NGA玩家社区](https://archive.is/o5yYL "https://bbs.nga.cn/read.php?tid=26246524")
++ [Brilliant Brightness - Dolorvotre - 单曲 - 网易云音乐](https://archive.is/K2cQl "https://music.163.com/#/song?id=569653914")
++ [Future is Mine - MYTH & ROID - 专辑 - 网易云音乐](https://archive.is/kTM4X "https://music.163.com/#/album?id=97521297")
++ [[氵] MYTH & ROID新歌BRILLIANT BRIGHT网易云被绿者冲下架 NGA玩家社区](https://archive.is/o5yYL "https://bbs.nga.cn/read.php?tid=26246524")
 
 ### 媒体新闻
 
