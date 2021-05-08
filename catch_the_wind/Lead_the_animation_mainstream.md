@@ -2,10 +2,10 @@
 title: 引导二次元文化支流汇入主流文化江河
 description: 光明日报评论
 published: true
-date: 2021-02-03T04:01:01.729Z
+date: 2021-05-08T06:05:08.731Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-03T04:01:01.729Z
+dateCreated: 2021-03-18T10:33:31.545Z
 ---
 
 2021年01月27日，光明日报刊登了一篇名为《引导二次元文化支流汇入主流文化江河》的文艺评论，这可能标志着大陆播放的动画将会被整改。
@@ -15,3 +15,7 @@ dateCreated: 2021-02-03T04:01:01.729Z
 + [如何看待《光明日报》文艺评论《引导二次元文化支流汇入主流文化江河》？ - 知乎](https://web.archive.org/web/20210129031039/https://www.zhihu.com/question/441627645)
 + [光明日报:引导二次元文化支流汇入主流文化江河 NGA玩家社区](https://archive.is/ZgJx9 "https://bbs.nga.cn/read.php?tid=25311930")
 + [引导二次元文化支流汇入主流文化江河 : China_irl](https://web.archive.org/web/20210203021725/https://old.reddit.com/r/China_irl/comments/l72b9l/引导二次元文化支流汇入主流文化江河/)
+
+---
+
+2021年4月新番先审后播证明了这篇评论。
