@@ -40,7 +40,7 @@ dateCreated: 2021-01-26T16:30:26.187Z
 
 [^qdaily_618]: [关于好奇心日报 - 九点，我们会出现在镇上_好奇怪](https://web.archive.org/web/20190620192428/http://notch.qdaily.com:80/mobile/posts/5059.html)
 
-[^qdaily_715]: [习近平“全面审查时代”：调查记者“快要绝种” - 纽约时报中文网](https://web.archive.org/web/20210125042411/https://cn.nytimes.com/china/20190715/china-journalists-crackdown/)
+[^qdaily_715]: [〇〇〇“全面审查时代”：调查记者“快要绝种” - 纽约时报中文网](https://web.archive.org/web/20210125042411/https://cn.nytimes.com/china/20190715/china-journalists-crackdown/)
 
 2019年8月28日零时，好奇心日报宣布恢复更新，剩馀保持更新的栏目只保留四个——《大公司头条》《城市早报》《为什么读书》《好奇心研究所》。并新增一个叫《蓬皮杜》的栏目。[^qdaily_80_d]此篇更新通告发布不到两个小时之后，在微信公众号的文章显示为「此内容因违规无法查看」。[^qdaily_80_c]并且，在另外几个小时之后，其移动端应用和网站中的相同文章均无法被看到。而截至这一年的12月31日，该应用在中国内地应用商店未上架。
 
