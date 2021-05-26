@@ -8,18 +8,18 @@ editor: markdown
 dateCreated: 2020-10-03T13:58:32.391Z
 ---
 
-# 首批18款App获颁安全认证证书
+## 首批18款App获颁安全认证证书
 
 首批App获颁安全认证证书的有云闪付(Android、iOS)、苏宁易购(Android、iOS)、中国移动(Android、iOS)、百度地图(Android、iOS)、同程旅游(Android、iOS)、艺龙旅行(Android、iOS)、车轮(Android、iOS)、老虎游戏(Android、iOS)、艺气山(Android)、CTID(Android)[^c_1126555118]
 
 [^c_1126555118] [首批18款App获颁安全认证证书：不等于“免死金牌”-新华网](https://web.archive.org/web/20201003133542/http://www.xinhuanet.com/legal/2020-09/29/c_1126555118.htm)
 
-## 相关讨论
+### 相关讨论
 
 + [首批 18 款 App 获颁安全认证：含百度地图、云闪付等 新浪科技_新浪网](https://web.archive.org/web/20201003132726/https://tech.sina.com.cn/digi/2020-09-20/doc-iivhvpwy7790895.shtml)
 + [首批 18 款 App 获颁安全认证：含百度地图、云闪付等 - IT之家评论](https://archive.is/CwttN "https://dyn.ithome.com/comment/d72e5fca93dfdc00")
 
-## 公告通知及其细则
+### 公告通知及其细则
 
 + [市场监管总局 中央网信办关于开展App安全认证工作的公告-中共中央网络安全和信息化委员会办公室](https://web.archive.org/web/20190504214256/http://www.cac.gov.cn/2019-03/15/c_1124240900.htm)
 + [市场监管总局 中央网信办关于开展App安全认证工作的公告_其他_中国政府网](https://web.archive.org/web/20201003133555/http://www.gov.cn/zhengce/zhengceku/2019-11/08/content_5450172.htm)
