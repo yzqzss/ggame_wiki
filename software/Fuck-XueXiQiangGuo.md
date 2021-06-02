@@ -2,10 +2,10 @@
 title: Fuck-XueXiQiangGuo
 description: 
 published: true
-date: 2020-10-15T04:39:01.255Z
+date: 2021-06-02T03:59:30.429Z
 tags: 
 editor: markdown
-dateCreated: 2020-10-15T04:39:01.255Z
+dateCreated: 2021-03-18T10:39:30.861Z
 ---
 
 ## 刷分软件 Fuck-XueXiQiangGuo 的作者被人身攻击
@@ -24,3 +24,8 @@ dateCreated: 2020-10-15T04:39:01.255Z
 微信似乎对 fuck-xuexiqiangguo 这个关键词进行了封锁
 
 [fuck-xuexiqiangguo的作者被人肉了吗，很担心作者的安全 - 2049 - 2049BBS](https://web.archive.org/web/20201015041452/https://2049bbs.github.io/t/1105)
+
+## 采访作者
+
++ [“Fuck学习强国”作者唐文正(Xmader)专访 - 2047论坛，自由人的精神角落](https://web.archive.org/web/20210315004126/https://2047.name/t/11552)
++ [2047通讯社｜专访“Fuck学习强国”刷分工具作者唐文正（Xmader） - 中国数字时代](https://web.archive.org/web/20210601100037/https://chinadigitaltimes.net/chinese/663593.html)
