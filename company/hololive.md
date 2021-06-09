@@ -2,10 +2,10 @@
 title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
-date: 2020-10-23T08:47:39.469Z
+date: 2021-06-09T07:48:33.820Z
 tags: 
 editor: markdown
-dateCreated: 2020-10-10T09:00:24.848Z
+dateCreated: 2021-03-18T10:33:47.007Z
 ---
 
 赤井心&桐生可可
@@ -100,3 +100,13 @@ dateCreated: 2020-10-10T09:00:24.848Z
 + [【Hololive炎上】直播提及台灣，日本Vtuber「赤井心、桐生可可」被中國小粉紅出征 - YouTube](https://archive.is/Z40wx "https://www.youtube.com/watch?v=EBXyBOzESJw")
 + [虛擬偶像也可以「辱華」？Vtuber「赤井心」與「桐生可可」被小粉紅出征，公司「COVER」的道歉聲明卻大玩兩面手法？《 左邊鄰居觀察日記 》EP 035｜志祺七七 - YouTube](https://archive.is/x3e3M "https://www.youtube.com/watch?v=wz1QUOpSk5k")
 + [Hololive碰瓷中国台湾后:vtuber大撤离 - 知乎](https://web.archive.org/web/20201023090630/https://zhuanlan.zhihu.com/p/267908924)
+
+## 2021年7月1日桐生可可毕业
+
++ [hololive 旗下 VTuber「桐生可可」宣布畢業 7 月 1 日將舉行畢業演唱會 - 巴哈姆特](https://web.archive.org/web/20210609065317/https://gnn.gamer.com.tw/detail.php?sn=216219)
++ [【閒聊】衝著桐生可可來的對岸NGA小粉紅，今晚居然成為了幫忙hololive洗訂閱數的水軍？ @虛擬 Youtuber（Vtuber） 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210609065640/https://forum.gamer.com.tw/C.php?bsn=60608&snA=4006&tnum=4)
++ [[Holo] 桐生可可 hololive畢業(活動到7/1) - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20210609065904/https://www.ptt.cc/bbs/C_Chat/M.1623208015.A.2F1.html)
++ [[Vtub] 桐生可可畢業聲明重點整理(重要) - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20210609065956/https://www.ptt.cc/bbs/C_Chat/M.1623209762.A.5F8.html)
++ [「桐生可可」畢業！中國網民全高潮](https://web.archive.org/web/20210609070031/https://tw.news.yahoo.com/%E6%A1%90%E7%94%9F%E5%8F%AF%E5%8F%AF-%E7%95%A2%E6%A5%AD-%E4%B8%AD%E5%9C%8B%E7%B6%B2%E6%B0%91%E5%85%A8%E9%AB%98%E6%BD%AE-052523584.html)
++ [【情報】桐生可可要畢業了... @虛擬 Youtuber（Vtuber） 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210609065848/https://forum.gamer.com.tw/C.php?bsn=60608&snA=4010)
+
