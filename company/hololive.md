@@ -2,7 +2,7 @@
 title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
-date: 2021-06-09T07:48:33.820Z
+date: 2021-06-10T11:35:50.845Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T10:33:47.007Z
@@ -109,4 +109,14 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [[Vtub] 桐生可可畢業聲明重點整理(重要) - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20210609065956/https://www.ptt.cc/bbs/C_Chat/M.1623209762.A.5F8.html)
 + [「桐生可可」畢業！中國網民全高潮](https://web.archive.org/web/20210609070031/https://tw.news.yahoo.com/%E6%A1%90%E7%94%9F%E5%8F%AF%E5%8F%AF-%E7%95%A2%E6%A5%AD-%E4%B8%AD%E5%9C%8B%E7%B6%B2%E6%B0%91%E5%85%A8%E9%AB%98%E6%BD%AE-052523584.html)
 + [【情報】桐生可可要畢業了... @虛擬 Youtuber（Vtuber） 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210609065848/https://forum.gamer.com.tw/C.php?bsn=60608&snA=4010)
++ [完蛋了，hololive的桐生可可好像要畢業了，在七月。 - 新·品葱](https://web.archive.org/web/20210610103608/https://pincong.rocks/video/id-4572__sort_key-agree_count__sort-DESC)
++ [[Vtub] 桐生可可畢業 COVER官方聲明 - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20210610103430/https://www.ptt.cc/bbs/C_Chat/M.1623208880.A.817.html)
++ [想看看太君和4v是啥反应 NGA玩家社区](https://archive.is/TebIl "https://bbs.nga.cn/read.php?tid=27126347")
 
+### 【リーク】桐生ココ引退の真相？内通者は語る
+
++ [【リーク】桐生ココ引退の真相？内通者は語る - YouTube](https://archive.is/sf8zP "https://web.archive.org/web/20210610080029if_/https://www.youtube.com/watch?v=t3T57HYEvV4")
++ [內部人員揭露Cover的黑暗 桐生可可的畢業內幕【鳴神裁】 - YouTube](https://archive.is/7aOk0 "https://web.archive.org/web/20210610100802if_/https://www.youtube.com/watch?v=Rs1KfKH72nc")
++ [裁狗发tskk隐退相关的视频了 NGA玩家社区](https://archive.is/u1xNk "https://ngabbs.com/read.php?tid=27127410")
++ [[Vtub] 桐生可可畢業（預言 by 鳴神) - c_chat - PTT動漫區](https://web.archive.org/web/20210610100204/https://pttcomic.com/c_chat/M.1623211059.A.9B9.html)
++ [RE:【閒聊】新Vtuber八卦串(#3030舊串備份神佬) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210610103534/https://forum.gamer.com.tw/Co.php?bsn=60076&sn=74991516)
