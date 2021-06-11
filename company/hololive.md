@@ -2,7 +2,7 @@
 title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
-date: 2021-06-10T11:35:50.845Z
+date: 2021-06-11T13:33:40.505Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T10:33:47.007Z
@@ -100,6 +100,7 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [【Hololive炎上】直播提及台灣，日本Vtuber「赤井心、桐生可可」被中國小粉紅出征 - YouTube](https://archive.is/Z40wx "https://www.youtube.com/watch?v=EBXyBOzESJw")
 + [虛擬偶像也可以「辱華」？Vtuber「赤井心」與「桐生可可」被小粉紅出征，公司「COVER」的道歉聲明卻大玩兩面手法？《 左邊鄰居觀察日記 》EP 035｜志祺七七 - YouTube](https://archive.is/x3e3M "https://www.youtube.com/watch?v=wz1QUOpSk5k")
 + [Hololive碰瓷中国台湾后:vtuber大撤离 - 知乎](https://web.archive.org/web/20201023090630/https://zhuanlan.zhihu.com/p/267908924)
++ [RE:【閒聊】新Vtuber八卦串(#4638可可畢業相關整理) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210611003507/https://forum.gamer.com.tw/Co.php?bsn=60076&sn=75038054)
 
 ## 2021年7月1日桐生可可毕业
 
