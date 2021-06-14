@@ -9,10 +9,9 @@ dateCreated: 2021-03-18T10:33:47.007Z
 ---
 
 赤井心&桐生可可
-===============
+---------------
 
-讨论
-----
+### 讨论
 
 + [如何看待Hololive所属Vtuber桐生可可发表不当言论及其造成的影响? - 知乎](https://web.archive.org/web/20200930070253/https://www.zhihu.com/question/422888674 "https://archive.is/LHUxp")
 + [[集中讨论]桐生可可直播间被封 NGA玩家社区](https://archive.is/xQAj2 "https://nga.178.com/read.php?tid=23474356")
@@ -28,8 +27,12 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [(持续更新)对于hololive事件想帮忙加速或想看懒人包的进来 - 新·品葱](https://web.archive.org/web/20201001085939/https://pincong.rocks/article/24553)
 + [【情報】對岸論壇正在推特大量公佈桐生可可的私人訊息 @虛擬 Youtuber（Vtuber） 哈啦板 - 巴哈姆特](https://web.archive.org/web/20201001090133/https://forum.gamer.com.tw/C.php?bsn=60608&snA=1424)
 
-新闻报道
---------
+### 懒人包
+
++ [hololive事件懒人包 更新 3月7日 holo制定新規 禁止旗下 Vtuber 黑色幽默 开了新贴 - 新·品葱](https://web.archive.org/web/20210614133940/https://pincong.rocks/article/id-24553)
++ [hololive事件包 6月12日 赤井心宣佈無限期暫停活動 - 新·品葱](https://web.archive.org/web/20210614133956/https://pincong.rocks/article/33009)
+
+### 新闻报道
 
 + [日虚拟主播 赞台“上位之国” 母公司禁播3周并道歉 中國報 China Press](https://web.archive.org/web/20200930070623/https://www.chinapress.com.my/20200930/日虚拟主播-赞台上位之国-母公司禁播3周并道/)
 + [“一个中国”话题登上日本热搜，这是怎么回事 - 人民日报海外网 - 微信公众号](https://archive.is/thUNC)
@@ -43,8 +46,7 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [hololive為先前聲明造成混亂致歉，強調一切為了旗下藝人安全 udn遊戲角落](https://web.archive.org/web/20200930071800/https://game.udn.com/game/story/12982/4899999)
 + [怕延燒旗下Vtuber？ hololive將「Taiwan」 跟「China」都列禁字 udn遊戲角落](https://web.archive.org/web/20200930070457/https://game.udn.com/game/story/12982/4897832)
 
-公司说法
---------
+### 公司说法
 
 + [カバー株式会社 on Twitter: "【お知らせ】 弊社所属タレントの配信内の一部言動に対する問題につきまして https://t.co/xojaguOfkP"](https://archive.is/OVaUW "https://twitter.com/cover_corp/status/1310182796862791681")
 + [弊社所属タレントの配信内の一部言動に対する問題につきまして.pdf](https://archive.is/7bCtI/image)
@@ -53,8 +55,7 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [关于近日在敝公司旗下艺人的直播中出现错误内容一事的声明 hololive的动态 - 哔哩哔哩](https://archive.is/DSnPL "https://t.bilibili.com/439666396115075371")
 + [关于敝公司旗下艺人在直播中的部分言行的声明 hololive的动态 - 哔哩哔哩](https://archive.is/OBI03 "https://t.bilibili.com/439668934441809305")
 
-改黑板
-------
+### 改黑板
 
 + [RE:【閒聊】場外艾爾之光板烤肉串 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20201013060451/https://forum.gamer.com.tw/Co.php?bsn=60076&sn=69131900)
 + [[Holo] 烤肉防盜浮水印太逼真導致炎上（？ - 看板 C_Chat - 批踢踢實業坊](https://web.archive.org/web/20201013062555/https://www.ptt.cc/bbs/C_Chat/M.1602034436.A.49D.html)
@@ -65,8 +66,7 @@ dateCreated: 2021-03-18T10:33:47.007Z
 
 [【每日翻车新闻搬运】590：白上吹雪你居然还敢和kson吃饭！拒绝与敌特分子划清界限？封杀！ - 新·品葱](https://web.archive.org/web/20201011130437/https://pincong.rocks/article/24859)
 
-未分类
-------
+### 未分类
 
 + [防止复活_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/bNLl0 "https://www.bilibili.com/video/BV1Py4y187iY")
 + [Hololive死了_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/Vyn2T "https://www.bilibili.com/video/BV1JV411y76W")
@@ -102,7 +102,8 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [Hololive碰瓷中国台湾后:vtuber大撤离 - 知乎](https://web.archive.org/web/20201023090630/https://zhuanlan.zhihu.com/p/267908924)
 + [RE:【閒聊】新Vtuber八卦串(#4638可可畢業相關整理) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210611003507/https://forum.gamer.com.tw/Co.php?bsn=60076&sn=75038054)
 
-## 2021年7月1日桐生可可毕业
+2021年7月1日桐生可可毕业
+------------------------
 
 + [hololive 旗下 VTuber「桐生可可」宣布畢業 7 月 1 日將舉行畢業演唱會 - 巴哈姆特](https://web.archive.org/web/20210609065317/https://gnn.gamer.com.tw/detail.php?sn=216219)
 + [【閒聊】衝著桐生可可來的對岸NGA小粉紅，今晚居然成為了幫忙hololive洗訂閱數的水軍？ @虛擬 Youtuber（Vtuber） 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210609065640/https://forum.gamer.com.tw/C.php?bsn=60608&snA=4006&tnum=4)
@@ -121,3 +122,18 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [裁狗发tskk隐退相关的视频了 NGA玩家社区](https://archive.is/u1xNk "https://ngabbs.com/read.php?tid=27127410")
 + [[Vtub] 桐生可可畢業（預言 by 鳴神) - c_chat - PTT動漫區](https://web.archive.org/web/20210610100204/https://pttcomic.com/c_chat/M.1623211059.A.9B9.html)
 + [RE:【閒聊】新Vtuber八卦串(#3030舊串備份神佬) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210610103534/https://forum.gamer.com.tw/Co.php?bsn=60076&sn=74991516)
+
+### hololive 高层有中国人
+
++ [欸嘿 還真的有 企劃總監 【閒聊】新Vtuber八卦串(#6974 COVER梗圖集中樓) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210614132536/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6367604&to=7266)
++ [不過可以確定是她一定不是日本人就是了 【閒聊】新Vtuber八卦串(#6974 COVER梗圖集中樓) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210614132505/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6367604&to=7288)
++ [在補上中資企劃總監的名字 【閒聊】新Vtuber八卦串(#6974 COVER梗圖集中樓) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210614132507/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6367604&to=7338)
++ [很多人都愛講獵巫獵巫的 【閒聊】新Vtuber八卦串(#6974 COVER梗圖集中樓) @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210614132650/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6367604&to=7347)
+
+### hololive 旗下 Vtuber 接到了 Diablo Immortal 的广告
+
+Diablo Immortal 是暴雪与网易共同拥有版权的游戏，[^DI_Rights]Botan Ch.獅白ぼたん 在 2021年6月13日 进行做了广告。[^DI_AD]
+
+[^DI_Rights]: © 2021 Blizzard Entertainment, Inc. and NetEase, Inc. All Rights Reserved. [Diablo® Immortal™](https://web.archive.org/web/20210609173056/https://diabloimmortal.com/en-us/)
+
+[^DI_AD]: [【αテスト版】Diablo Immortal / ディアブロ イモータル【獅白ぼたん/ホロライブ】 - YouTube](https://web.archive.org/web/20210614134821if_/https://www.youtube.com/watch?v=3_y3QpIDcks)
