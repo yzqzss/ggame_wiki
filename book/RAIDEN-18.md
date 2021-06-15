@@ -2,7 +2,7 @@
 title: RAIDEN-18
 description: 荒川弘的短篇漫画
 published: true
-date: 2021-06-15T09:42:51.531Z
+date: 2021-06-15T11:25:51.334Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-15T09:42:51.531Z
@@ -27,6 +27,10 @@ RAIDEN-18 的民间汉化是由热情汉化组制作的，[^ep1_2_t]使用顶置
     + [[转] 雷电18号 第3集 生肉【raiden18吧】_百度贴吧](https://web.archive.org/web/20210615064532/https://tieba.baidu.com/p/962731257)
     + [蟹娘你知道的```【raiden18吧】_百度贴吧](https://web.archive.org/web/20210615065016/https://tieba.baidu.com/p/961933266)
 
+### 相关话题被限制
+
++ [MZK on Twitter: "更搞笑的事情來了 你國粉紅up主原本打算發視頻，狠狠批判荒川弘的辱華行為，卻突然作罷，為什麼？ 因為根本過不了審！！！… "](https://web.archive.org/web/20210615100411/https://twitter.com/MIZUKISHY/status/1404671366276599809)
+
 ### 相关连接
 
 + [#钢炼# 作者荒川弘旧短篇重开。。。 微博](https://archive.is/AOcmp "https://m.weibo.cn/status/4648307735662540?")
@@ -35,3 +39,4 @@ RAIDEN-18 的民间汉化是由热情汉化组制作的，[^ep1_2_t]使用顶置
 + [牛姨的新短篇恶搞了毛爷爷......](https://web.archive.org/web/20210615053115/https://bangumi.tv/group/topic/363353)
 + [钢炼永远的神？被称为神作的作品塌房，作者荒川弘旧短篇重开](https://web.archive.org/web/20210615054349/https://baijiahao.baidu.com/s?id=1702609508690399749)
 + [《钢之炼金术》作者恶搞毛泽东 - 万维读者网](https://web.archive.org/web/20210615054032/https://news.creaders.net/world/2010/12/24/1030798.html)
++ [Raiden-18 Vol.1 Chapter 3 - Manganelo](https://web.archive.org/web/20210615111647/https://chap.manganelo.com/manga-nh95075/chapter-3)
