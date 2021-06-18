@@ -27,5 +27,5 @@ dateCreated: 2021-05-21T15:32:41.487Z
 + [本台记者星期二上网查询时，发觉页面显示“很抱歉,该文章已经被加密”几个字样。 - RFA](https://archive.ph/8JnC7 "https://www.rfa.org/mandarin/yataibaodao/jing-04272010101342.html")
 + [有搜索引擎提示：居士的网页的某处“可能受到黑客攻击”。这里对了。 - 唐白玉的博文](https://archive.ph/y6DYO#selection-1971.1-276.8 "https://web.archive.org/web/20210521153229/http://blog.sciencenet.cn/blog-530150-1158239.html")
 + [Terry Wang on Twitter: "很抱歉，该文章已经被加密！好一个"加密"而不是删除，URL里竟然还有nopower之类的字符串，这可真他妈是傻逼到了极点了，新浪威武"](https://web.archive.org/web/20210521151644/https://twitter.com/terrywang/status/8017660699)
-+ [64.发表博文被加密的故事 - oldstoryone](https://web.archive.org/web/20160815120616/https://oldstoryone.wordpress.com/2015/03/06/64-%e5%8f%91%e8%a1%a8%e5%8d%9a%e6%96%87%e8%a2%ab%e5%8a%a0%e5%af%86%e7%9a%84%e6%95%85%e4%ba%8b/)
++ [64.发表博文被加密的故事 - oldstoryone](https://web.archive.org/web/20160815120616/https://oldstoryone.wordpress.com/2015/03/06/64-发表博文被加密的故事/)
 + [不存在、被删除、被加密！ - 秦海桥的博文 - 美国中文网](https://web.archive.org/web/20210519161031/http://www.sinovision.net/home/space/do/blog/uid/516257/id/359480.html)

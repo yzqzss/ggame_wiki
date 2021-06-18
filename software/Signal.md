@@ -48,7 +48,7 @@ dateCreated: 2021-03-18T10:40:04.960Z
 + [不讓人民言論太自由？加密通訊軟體Signal疑似遭中國禁用 - 新頭殼 Newtalk](https://web.archive.org/web/20210316092346/https://newtalk.tw/news/view/2021-03-16/549774)
 
 <!--
-[尋找高度安全的通訊方式？放棄Telegram投奔Signal！ - Dylan Hill - Medium](https://web.archive.org/web/20200307040653/https://medium.com/@hahaquadrad/%E5%B0%8B%E6%89%BE%E9%AB%98%E5%BA%A6%E5%AE%89%E5%85%A8%E7%9A%84%E9%80%9A%E8%A8%8A%E6%96%B9%E5%BC%8F-%E6%94%BE%E6%A3%84telegram%E6%8A%95%E5%A5%94signal-f5ee473bb179)
+[尋找高度安全的通訊方式？放棄Telegram投奔Signal！ - Dylan Hill - Medium](https://web.archive.org/web/20200307040653/https://medium.com/@hahaquadrad/尋找高度安全的通訊方式-放棄telegram投奔signal-f5ee473bb179)
 [Signal 中国大陆使用报告 - TSBBLOG](https://web.archive.org/web/20200922155052/https://tsb2blog.com/signal)
 [Signal 实在是不得不推荐的一款聊天软件 - 知乎](https://archive.is/BK02M "https://zhuanlan.zhihu.com/p/85935088")
 -->
