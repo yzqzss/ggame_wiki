@@ -8,8 +8,13 @@ editor: markdown
 dateCreated: 2021-03-18T10:34:26.821Z
 ---
 
-Steam 大陆区个人主页会因违规好友连坐
-----------------------------------
+## Steam 地图问题
+
+在Steam全球统计页面中，有世界地图。被指出问题后移除了地图，修改为热力图。
+
++ [【4.19】针对Steam全球数据统计页面国家领土缺失问题的通告【steam吧】 - 百度贴吧](https://web.archive.org/web/20210408050506/https://tieba.baidu.com/p/6629141990)
+
+## Steam 大陆区个人主页会因违规好友连坐
 
 + [好友头像“违规”，steam连坐其他用户，删除“违规好友”才可恢复账户。 サクラバ氏ギャラリー on Twitter](https://archive.is/qe2Xe "https://twitter.com/SakurabaMay/status/1229632986234011648")
 + [好友头像“违规”，steam连坐其他用户，删除“违规好友”才可恢复账户。 daniel on Twitter](https://archive.is/oTESb "https://twitter.com/DanielDanielabc/status/1229827961416605696")
