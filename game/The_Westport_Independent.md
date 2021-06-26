@@ -23,6 +23,7 @@ dateCreated: 2021-06-26T23:09:15.467Z
 ## 百度搜索结果过少
 
 ![百度搜索](/src/game/TWI/TWI_B.webp)
+
 ![谷歌搜索](/src/game/TWI/TWI_G.webp)
 
 使用百度搜索，仅有 5 万条结果，而谷歌能够搜索到 77 万条结果。
