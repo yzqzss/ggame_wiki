@@ -26,4 +26,6 @@ dateCreated: 2021-06-26T23:09:15.467Z
 
 ![谷歌搜索](/src/game/TWI/TWI_G.webp)
 
-使用百度搜索，仅有 5 万条结果，而谷歌能够搜索到 77 万条结果。
+使用百度搜索，仅有 5 万条结果，[^twi_b]而谷歌能够搜索到 77 万条结果。
+
+[^twi_b]: [西港独立社 - 百度搜索](https://archive.is/GptvB "https://www.baidu.com/s?&wd=西港独立社")
