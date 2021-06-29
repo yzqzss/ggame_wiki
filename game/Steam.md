@@ -34,3 +34,4 @@ dateCreated: 2021-03-18T10:34:26.821Z
 + [【悲报】阿根廷账户被遣返回国，云阿区人注意 - 其乐 Keylol](https://archive.is/mwocj "https://keylol.com/t727233-1-1")
 + [就在刚刚 STEAM强制把阿根廷区转国区【steam吧】 - 百度贴吧](https://web.archive.org/web/20210627034813/https://tieba.baidu.com/p/7424355145)
 + [【图片】出事了 Steam把a区的人强制转区了【steam吧】 - 百度贴吧](https://web.archive.org/web/20210627034735/https://tieba.baidu.com/p/7424321967)
++ [如何看待 Steam 开始遣返低价区用户到注册/常用 IP 所在区域？ - 知乎](https://web.archive.org/web/20210629024204/https://www.zhihu.com/question/468158380)
