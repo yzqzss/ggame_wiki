@@ -12,7 +12,7 @@ dateCreated: 2020-10-03T13:58:32.391Z
 
 首批App获颁安全认证证书的有云闪付(Android、iOS)、苏宁易购(Android、iOS)、中国移动(Android、iOS)、百度地图(Android、iOS)、同程旅游(Android、iOS)、艺龙旅行(Android、iOS)、车轮(Android、iOS)、老虎游戏(Android、iOS)、艺气山(Android)、CTID(Android)[^c_1126555118]
 
-[^c_1126555118] [首批18款App获颁安全认证证书：不等于“免死金牌”-新华网](https://web.archive.org/web/20201003133542/http://www.xinhuanet.com/legal/2020-09/29/c_1126555118.htm)
+[^c_1126555118]: [首批18款App获颁安全认证证书：不等于“免死金牌”-新华网](https://web.archive.org/web/20201003133542/http://www.xinhuanet.com/legal/2020-09/29/c_1126555118.htm)
 
 ### 相关讨论
 
