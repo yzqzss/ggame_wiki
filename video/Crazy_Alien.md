@@ -26,3 +26,5 @@ dateCreated: 2021-06-29T20:44:11.754Z
 + [Whistleblower Footage Reveals Alleged Abuse of a Dog on the Set of 'Crazy Alien' Movie in China - YouTube](https://www.youtube.com/watch?v=xsBxlZwS5Qg)
 + ['Crazy Alien' Film, Dog Spun Violently & Hurled Into Icy River](https://web.archive.org/web/20210117040355/https://www.tmz.com/2018/03/15/crazy-alien-german-shepherd-peta/)
 + ['Crazy Alien' Dog Abuse: Matthew Morrison Slams Disturbing Video - Variety](https://web.archive.org/web/20210304135659if_/https://variety.com/2018/film/news/crazy-alien-dog-abuse-matthew-morrison-peta-1202729006/)
++ [宁浩澄清《疯狂的外星人》虐狗谣言：虐待并不存在](https://web.archive.org/web/20210629134801/https://baijiahao.baidu.com/s?id=1624042117737077973)
++ [宁浩新片《疯狂的外星人》被爆虐待动物，网上大V疯狂洗白...](https://web.archive.org/web/20210629134939/https://www.sohu.com/a/225792999_638596)

@@ -8,32 +8,32 @@ editor: markdown
 dateCreated: 2020-10-02T13:29:52.213Z
 ---
 
-# 我的英雄学院
+## 我的英雄学院
 
 2020年3月左右，Pan Piano 上传了动画我的英雄学院的钢琴演奏音乐，视频简介里似乎还有「爆豪好可爱」这样的文字[^pFwPe][^peCTQ]，不过遇上了2020年2月3日开始在韩国以及大陆流行起来的反对我的英雄学院运动，结果是这个视频在随后一段时间删除了，尚不清楚这是拥有者或是平台方做的。
 
 [^pFwPe]: [panpiano:爆豪真可爱 - 哔哩哔哩](https://archive.vn/pFwPe "https://www.bilibili.com/read/cv5353312/")
 [^peCTQ]: [b站油管胎毒up，panpiano ，ri台友好，小英雄辱华，大量拉黑删评 - 哔哩哔哩](https://archive.vn/peCTQ "https://www.bilibili.com/read/cv6478708/")
 
-# 日台友好
+## 日台友好
 
 Pan Piano 在推特上发表了推文，可能数次提到了日台友好
 
-# 「中国」与「台湾」
+## 「中国」与「台湾」
 
 一部分热情的网友不能饶恕 Pan Piano 分清中国与台湾，即使 Pan Piano 没有发表任何主张台湾独立的话语。
 
-# 同一张图片的双重标准
+## 同一张图片的双重标准
 
 哔哩哔哩用户りすか发布的专栏文章，表示 Pan Piano 已经通过审核的视频封面，在保持原样的情况下，无法通过哔哩哔哩的审核，[^VfUy7]这篇文章也在随后一段时间删除了，尚不清楚这是拥有者或是平台方做的。
 
 [^VfUy7]: [panpiano:我一直都不是中国人啊 - 哔哩哔哩](https://archive.vn/VfUy7 "https://www.bilibili.com/read/cv6197010")
 
-# 视频与动态消失
+## 视频与动态消失
 
 尚不清楚到底发生了什么，目前看来 Pan Piano 所有的视频以及动态消息都消失了。
+
 相册虽然还在，但都禁止评论。
-以我 gledos 的看法，这是平台做的限制。
 
 + [青眼白龙好吃\(-ㅂ-)/ panpiano 哔哩哔哩相簿](https://archive.vn/Wtjsp "https://h.bilibili.com/81458699")
 + [【贺】小p的十万奖牌到家了!!!!好感动~~ 感谢所有的小伙伴们(｡>▽<｡)♡ panpiano 哔哩哔哩相簿](https://archive.vn/0WGzx "https://h.bilibili.com/21546631")
