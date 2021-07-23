@@ -53,7 +53,7 @@ Free Uyghur Edition
 
 ### 开始
 
-2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为"Free Uyghur Edition"，在更新介绍里的是一篇短文，描述了新疆再教育营违反人权等观点。
+2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为"Free Uyghur Edition"。
 
 ### 经过
 
