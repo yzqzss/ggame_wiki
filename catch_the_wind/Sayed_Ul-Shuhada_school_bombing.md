@@ -14,7 +14,7 @@ dateCreated: 2021-05-09T15:49:04.914Z
 
 + [阿富汗首都一学校附近发生连环爆炸 目击者：学生们正放学离开学校](https://archive.is/t1Ecj "https://world.huanqiu.com/article/4333JxvVj9j")
 + [[新闻直播间]阿富汗 喀布尔连环爆炸袭击 遇难者已超50人 爆炸正值放学时间 大多数死伤者是学生_CCTV节目官网-CCTV-13_央视网(cctv.com)](https://web.archive.org/web/20210509153726/https://tv.cctv.com/2021/05/09/VIDECbi8eaopFAkAcTRB6e2l210509.shtml)
-+ [#阿富汗首都喀布尔发生爆炸# 阿富汗首都... 来自环球网 - 微博](https://archive.is/jRZGD "https://weibo.com/1686546714/KeyOX4KvJ")
++ [\#阿富汗首都喀布尔发生爆炸# 阿富汗首都... 来自环球网 - 微博](https://archive.is/jRZGD "https://weibo.com/1686546714/KeyOX4KvJ")
 
 央视网的文字版里提到了这是女子高中。
 
