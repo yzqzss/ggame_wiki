@@ -20,7 +20,7 @@ dateCreated: 2021-02-18T05:28:25.739Z
 
 《奇蛋物语》E06 删除了 16:20 小系跟老师在教室「师生恋」的镜头。[^WEP_E06]
 
-[^WEP_E06]: [#奇蛋物语# 06话 b站删除了16:20处 小系跟... 来自果厨果厨果 - 微博](https://archive.is/9TQJB "https://weibo.com/1679854890/K2fKJlsqH")
+[^WEP_E06]: [\#奇蛋物语# 06话 b站删除了16:20处 小系跟... 来自果厨果厨果 - 微博](https://archive.is/9TQJB "https://weibo.com/1679854890/K2fKJlsqH")
 
 <!--
 [奇蛋物语04话 b站二次和谐，删除了整... 来自果厨果厨果 - 微博](https://archive.is/N8riF "https://weibo.com/1679854890/K18f2f88A")

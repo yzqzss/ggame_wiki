@@ -3,7 +3,7 @@ title: flag emoji
 description: 
 published: true
 date: 2021-07-28T07:34:20.334Z
-tags: ROC_Flag
+tags: ROC_Flag Apple
 editor: markdown
 dateCreated: 2021-07-28T07:34:20.334Z
 ---

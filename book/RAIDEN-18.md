@@ -21,7 +21,7 @@ RAIDEN-18 的民间汉化是由热情汉化组制作的，[^ep1_2_t]使用顶置
 
 但由于没有热情汉化组的所有翻译项目列表，不知道第三话是否被热情汉化组翻译过。
 
-根据当时第三话未翻译的生肉似乎被贴吧审查的情况来看，[^ep3_t]
+根据当时第三话未翻译的生肉似乎被贴吧审查的情况来看，[^ep3_t] 可能没有人翻译第三话。
 
 [^ep3_t]: + 目前在贴吧没有发现任何第三话的全文生肉，似乎即使是在 2010年，也无法在一些吧发送全部的生肉内容。
     + [[转] 雷电18号 第3集 生肉【raiden18吧】 - 百度贴吧](https://web.archive.org/web/20210615064532/https://tieba.baidu.com/p/962731257)
@@ -44,11 +44,11 @@ RAIDEN-18 的民间汉化是由热情汉化组制作的，[^ep1_2_t]使用顶置
 ### 原因
 
 + [对谈出自今天发售的GX 荒川弘：画第三话时... 来自少年JUMP吧 - 微博](https://archive.is/zAjYU "https://weibo.com/1935396210/KkBcYmoH5")
-+ [为防某国盗版 《钢炼》作者 恶搞毛泽东 - 中國報 China Press](https://web.archive.org/web/20210618053229/https://www.chinapress.com.my/20210617/%E4%B8%BA%E9%98%B2%E6%9F%90%E5%9B%BD%E7%9B%97%E7%89%88-%E3%80%8A%E9%92%A2%E7%82%BC%E3%80%8B%E4%BD%9C%E8%80%85-%E6%81%B6%E6%90%9E%E6%AF%9B%E6%B3%BD%E4%B8%9C/?\_\_cf\_chl\_captcha\_tk\_\_=959e367708e74d3af30b7ccc89e61cbdf94a9536-1623994172-0-ASpyiZGFiAsMRFQt4298IksLkEnM7DgU\_IJ7y3BPeAnK4o4HIN75wvSKMCEHKyZQwgvtKCiyoV7Ebx-6Zpy4YzrzLwEKpSN4i27Pr97KLu2XVcmLZPUtZJUrwoX7pu0qBQt7ddZFDLzn3R13c08-OTT5y677jC13hLY9iA3261YpcNqFh3jWjOghXOh6FubCLdb44sGKKOoaHVxjroeRBEPjGkJFExwJ4fnYyHzCDEqR6x0UeQoRgE9SS\_9N2sNVJhlqEaOSQaiLCuiHCm4aBHKr8ecszpUpvHirVEHVEuQHyyhM9pbLR3SzsbgPY-uuaWeDYTgzl\_rCxqFkHueCTwteiz\_dB3bsWSOXP34ofjzyLLFM2GMk6r1e7C0XDkHQUOEeXzMVgIZeFij1WpbC4XJ9rFdzgGvR6VjiQn97hJTh7Z4Xu\_dWEThcVMoi3ugm-rsTkLCRNgl4ivmBUhGgueXHYxGbtbc\_LK9YO0\_mjq0JKM3Zbk\_SBv5slrRVvy-Div36jZFNE7UVRGDVGU12vj6zl5AzavfxIZeU\_s2xrhpruodUHMhdko9QOx-QqVAbXdYZmHJtozK1OnTCmWA86Bdp-uhko148ZgW7g1XBBI8vLynZBrskpOoEwOtTW3EOGX2tqR634DpJZkuh0w3npKrdj2GLAGR\_3g9I6snAMecuGlPER9KzElJ68737puQNilsGLz480bLyyN2Hf5B5TkPuKFnDoopzSFqPy2b6KGBCSjF\_R1V0sOIIeyUGaoSLTZOovi19UNXPZ23knaOVkfTVIhdYtAtGdHpNPxmjpydokhgbquaCTZTlhS\_lR\_y14Q)
++ [为防某国盗版 《钢炼》作者 恶搞毛泽东 - 中國報 China Press](https://web.archive.org/web/20210619180343/https://www.chinapress.com.my/20210617/%E4%B8%BA%E9%98%B2%E6%9F%90%E5%9B%BD%E7%9B%97%E7%89%88-%E3%80%8A%E9%92%A2%E7%82%BC%E3%80%8B%E4%BD%9C%E8%80%85-%E6%81%B6%E6%90%9E%E6%AF%9B%E6%B3%BD%E4%B8%9C/)
 
 ### 相关连接
 
-+ [#钢炼# 作者荒川弘旧短篇重开。。。 微博](https://archive.is/AOcmp "https://m.weibo.cn/status/4648307735662540?")
++ [\#钢炼# 作者荒川弘旧短篇重开。。。 微博](https://archive.is/AOcmp "https://m.weibo.cn/status/4648307735662540?")
 + [AKIRA MIN on Twitter: "惊闻钢炼作者也乳化，神了。 叔叔这波这不把钢炼下架恐怕很难收场。 以后玩大哥哥梗是不是也成汉奸了😂… "](https://web.archive.org/web/20210615055339/https://twitter.com/AKIRA_MiN_/status/1404658394774966274)
 + [如何评价日本漫画家荒川弘？ - 知乎](https://web.archive.org/web/20210615054617/https://www.zhihu.com/question/36931393/answers/updated)
 + [牛姨的新短篇恶搞了毛爷爷......](https://web.archive.org/web/20210615053115/https://bangumi.tv/group/topic/363353)

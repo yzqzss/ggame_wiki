@@ -8,14 +8,12 @@ editor: markdown
 dateCreated: 2020-10-15T04:32:22.104Z
 ---
 
-用户协议
---------
+## 用户协议
 
 + [学习平台信息保护政策](https://web.archive.org/web/20201015032431/https://h5.xuexi.cn/page/setting/ios/protection-policy.html)
 + [学习强国隐私权政策](https://web.archive.org/web/20201015032434/https://h5.xuexi.cn/page/protection-policy/index.html)
 
-禁止评论评分
-------------
+## 禁止评论评分
 
 > 在“学习强国”案例当中，苹果应用商店这款应用的评分与评价功能目前无法使用。但分析公司App Annie已经保存了截至周二提交给苹果商店的497条评价。
 >
@@ -25,8 +23,7 @@ dateCreated: 2020-10-15T04:32:22.104Z
 
 [发现学习强国这个app没有评分了](https://web.archive.org/web/20201015042753/https://www.douban.com/group/topic/132814272/)
 
-Cure53 的分析链接
------------------
+## Cure53 的分析
 
 + [Analysis-Report “Study the Great Nation” 08.-09.2019](https://web.archive.org/web/20200918043709/https://cure53.de/analysis_report_sgn.pdf)
 + [Cure53 – Fine penetration tests for fine websites](https://web.archive.org/web/20201015030403/https://cure53.de/#study-the-great-nation-faq)
@@ -41,7 +38,6 @@ Cure53 的分析链接
 
 [Cure53 的对某个 App 的审计报告，大家怎么看？ - V2EX](https://web.archive.org/web/20201012124248/https://www.v2ex.com/t/608880)
 
-刷分工具 Fuck-XueXiQiangGuo
----------------------------
+## 刷分工具 Fuck-XueXiQiangGuo
 
-跳转到 [Fuck-XueXiQiangGuo](/software/Fuck-XueXiQiangGuo) 查看详情
+跳转到 [Fuck-XueXiQiangGuo](anti-censorship/Fuck-XueXiQiangGuo.md) 查看详情

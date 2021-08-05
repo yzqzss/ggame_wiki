@@ -4,7 +4,7 @@ description:
 website: diygod.me
 published: true
 date: 2021-07-31T21:56:32.952Z
-tags: 
+tags: blog
 editor: markdown
 dateCreated: 2021-07-31T21:56:32.952Z
 ---

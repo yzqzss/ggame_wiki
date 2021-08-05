@@ -3,7 +3,7 @@ title: 虎嗅
 description: 一个财经新闻&文章平台
 published: true
 date: 2021-01-04T06:43:00.031Z
-tags: 
+tags: 整改
 editor: markdown
 dateCreated: 2021-01-04T06:43:00.031Z
 ---
@@ -24,7 +24,7 @@ dateCreated: 2021-01-04T06:43:00.031Z
 
 + [虎嗅网宣布停止更新一个月，疑与发文评论反垄断有关 - 中国数字时代](https://web.archive.org/web/20210103051403/https://chinadigitaltimes.net/chinese/2020/12/虎嗅网宣布停止更新一个月，疑与发文评论反垄断/)
 + [疑因呼吁对互联网监管不宜太严 虎嗅网突停更一个月 - 早报](https://web.archive.org/web/20210104060230/https://www.zaobao.com.sg/realtime/china/story20201220-1110267)
-+ [热闻丨太突然！虎嗅宣布停止更新一个月，发生了什么？](https://web.archive.org/web/20210104061131/https://baijiahao.baidu.com/s?id=1686467960233558000)
++ [热闻 - 太突然！虎嗅宣布停止更新一个月，发生了什么？](https://web.archive.org/web/20210104061131/https://baijiahao.baidu.com/s?id=1686467960233558000)
 + [公然叫板中央，虎嗅网好大的胆子！ - 反垄断_网易订阅](https://web.archive.org/web/20210104055053/https://www.163.com/dy/article/FUC0H31P0519G3US.html)
 + [虎嗅停更1个月的秘密，股市杀猪盘的秘密](https://web.archive.org/web/20210104061230/https://baijiahao.baidu.com/s?id=1686695545025566378)
 + [虎嗅突发停更，跟“垄断”有关？](https://web.archive.org/web/20210104061209/https://baijiahao.baidu.com/s?id=1686656543690076134)

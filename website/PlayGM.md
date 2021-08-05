@@ -3,7 +3,7 @@ title: PlayGM
 description: 足球经理著名论坛
 published: true
 date: 2020-09-21T12:49:59.554Z
-tags: 
+tags: 论坛
 editor: markdown
 dateCreated: 2020-09-21T12:30:20.003Z
 ---
@@ -24,7 +24,7 @@ dateCreated: 2020-09-21T12:30:20.003Z
 
 因为仅仅是更换域名，所以历史的讨论帖及其账户数据均迁移到了新论坛。
 
-到目前的2020年下半年为止，新的 Playgm.cc 论坛依然没有ICP备案，[^3]不过曾经的 .cn 网站是有 ICP 备案的。[^4][^5]所以网警找站长的理由是没有做网安备案。[^6]
+到目前的2020年下半年为止，新的 Playgm.cc 论坛依然没有ICP备案，[^3]不过曾经的 .cn 网站是有 ICP 备案的。[^4][^5]所以网警找站长的理由可能是没有做网安备案。[^6]
 
 [^3]: [playgm.cc的备案详情](https://archive.is/Zmd5k "http://icp.chinaz.com/info?q=playgm.cc")
 

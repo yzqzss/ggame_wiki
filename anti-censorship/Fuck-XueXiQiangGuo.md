@@ -28,4 +28,4 @@ dateCreated: 2021-03-18T10:39:30.861Z
 ## 采访作者
 
 + [“Fuck学习强国”作者唐文正(Xmader)专访 - 2047论坛，自由人的精神角落](https://web.archive.org/web/20210315004126/https://2047.name/t/11552)
-+ [2047通讯社｜专访“Fuck学习强国”刷分工具作者唐文正（Xmader） - 中国数字时代](https://web.archive.org/web/20210601100037/https://chinadigitaltimes.net/chinese/663593.html)
++ [2047通讯社 - 专访“Fuck学习强国”刷分工具作者唐文正（Xmader） - 中国数字时代](https://web.archive.org/web/20210601100037/https://chinadigitaltimes.net/chinese/663593.html)

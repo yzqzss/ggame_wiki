@@ -3,7 +3,7 @@ title: VCB-Studio
 description: 专业的压制动画小组
 published: true
 date: 2021-07-09T23:07:32.895Z
-tags: 
+tags: 汉化组
 editor: markdown
 dateCreated: 2021-07-09T23:07:32.895Z
 ---

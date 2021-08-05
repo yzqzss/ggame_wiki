@@ -21,6 +21,6 @@ dateCreated: 2020-10-13T03:28:17.032Z
 
 ### 五名酒吧和咖啡馆老板因经营无日志WiFi网络而在法国被捕
 
-在今年最怪异的一次逮捕事件中，上周至少有五名来自法国格勒诺布尔的酒吧和咖啡馆经理被拘留，原因是他们所在的场所运行开放的WiFi网络，并且未保存以前连接过的用户的日志。
+> 在今年最怪异的一次逮捕事件中，上周至少有五名来自法国格勒诺布尔的酒吧和咖啡馆经理被拘留，原因是他们所在的场所运行开放的WiFi网络，并且未保存以前连接过的用户的日志。[^20201009215003]
 
-+ [Five bar and cafe owners arrested in France for running no-log WiFi networks ZDNet](https://web.archive.org/web/20201009215003/https://www.zdnet.com/article/five-bar-and-cafe-owners-arrested-in-france-for-running-no-log-wifi-networks/)
+[^20201009215003]: [Five bar and cafe owners arrested in France for running no-log WiFi networks ZDNet](https://web.archive.org/web/20201009215003/https://www.zdnet.com/article/five-bar-and-cafe-owners-arrested-in-france-for-running-no-log-wifi-networks/)
