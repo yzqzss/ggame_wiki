@@ -3,7 +3,7 @@ title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
 date: 2020-12-07T14:11:09.823Z
-tags: 
+tags: 地图
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
 ---
@@ -23,8 +23,8 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 国服客户端禁止事项
 ------------------
 
-+ [我的世界中国版遭遇严格限制 地图作者和普通玩家如何应对_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.vn/X4LnI "https://www.bilibili.com/video/av540524788/")
-+ [为什么我的世界和迷你世界 在这一个月将迎来重大考验_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/lA0iA "https://www.bilibili.com/video/av925518412/")
++ [我的世界中国版遭遇严格限制 地图作者和普通玩家如何应对 - 哔哩哔哩](https://archive.vn/X4LnI "https://www.bilibili.com/video/av540524788/")
++ [为什么我的世界和迷你世界 在这一个月将迎来重大考验 - 哔哩哔哩](https://archive.is/lA0iA "https://www.bilibili.com/video/av925518412/")
 + [我的世界中国版遭遇严格限制 地图作者和普... 来自籽岷 - 微博](https://archive.vn/f6JDR "https://www.weibo.com/3159686244/J04BByPcd")
 + [書上不能寫字？！Minecraft中國版的現狀！(MC網易版審查加強) - YouTube](https://archive.is/F2M7z "https://www.youtube.com/watch?v=JwEJocioFY0")
 
@@ -50,10 +50,10 @@ Minecraft Live 2020 地图问题
 ### 相关网页
 
 + [Minecraft Live 2020: Full Show - YouTube](https://archive.is/5jjNL "https://www.youtube.com/watch?v=DWZIfsaIgtE")
-+ [我的世界1.17新版本深度解读_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/BXpKg "https://www.bilibili.com/video/av414772657")
-+ [洞穴更新成了！Minecraft 1.17 更新特性汇总！洞穴与峭壁更新！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/oJkSw "https://www.bilibili.com/video/BV1Fv411k7Zg")
-+ [2020年《我的世界》全球嘉年华Minecraft Live即将来临！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/JyLTt "https://www.bilibili.com/video/av712221197")
-+ [【生肉】Minecraft Live 2020- Full Show_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/S4vHD "https://www.bilibili.com/video/av842365730")
++ [我的世界1.17新版本深度解读 - 哔哩哔哩](https://archive.is/BXpKg "https://www.bilibili.com/video/av414772657")
++ [洞穴更新成了！Minecraft 1.17 更新特性汇总！洞穴与峭壁更新！ - 哔哩哔哩](https://archive.is/oJkSw "https://www.bilibili.com/video/BV1Fv411k7Zg")
++ [2020年《我的世界》全球嘉年华Minecraft Live即将来临！ - 哔哩哔哩](https://archive.is/JyLTt "https://www.bilibili.com/video/av712221197")
++ [【生肉】Minecraft Live 2020- Full Show - 哔哩哔哩](https://archive.is/S4vHD "https://www.bilibili.com/video/av842365730")
 + [有关地图事件我之所见_minecraft吧_百度贴吧](https://archive.is/TOrDY "https://tieba.baidu.com/p/6997026671")
 + 已删除 [Minecraft Live 中出现错误中国地图 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://archive.is/UVmqo "https://www.mcbbs.net/thread-1124398-1-1.html")
 + 已删除 [昨天minecraft live发生了什么 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://web.archive.org/web/20201005124410/https://www.mcbbs.net/thread-1124427-1-1.html)
@@ -69,7 +69,7 @@ Minecraft Live 2020 地图问题
 
 一些其他的网址
 
-+ [Minecraft Live 2020 直播录像（附中文传译）_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/5mSl9)
++ [Minecraft Live 2020 直播录像（附中文传译） - 哔哩哔哩](https://archive.is/5mSl9)
 + [維聲小助手🛠 on Twitter: "1小时39分20秒起"](https://archive.is/v5Jt8 "https://twitter.com/Vop19530615/status/1312637242473549824")
 + [维尼大帝 on Twitter: "昨天的Minecraft Live 2020......](https://archive.is/3dZMn "https://twitter.com/realEmperorPooh/status/1312640474033786880")
 + [推特小红旗 on Twitter: "10月4日消息 据网友反馈......"](https://archive.is/hkd3H "https://twitter.com/Xhnsoc__Redflag/status/1312658532055937026")

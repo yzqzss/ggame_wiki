@@ -3,7 +3,7 @@ title: Fiery Feeds
 description: 非常专业的 RSS 阅读器
 published: true
 date: 2020-10-06T14:23:25.435Z
-tags: rss
+tags: RSS
 editor: markdown
 dateCreated: 2020-10-06T13:40:19.445Z
 ---

@@ -3,7 +3,7 @@ title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
 date: 2021-06-11T13:33:40.505Z
-tags: YouTuber Hololive
+tags: YouTuber Hololive Vtuber
 editor: markdown
 dateCreated: 2021-03-18T10:33:47.007Z
 ---
@@ -68,11 +68,11 @@ dateCreated: 2021-03-18T10:33:47.007Z
 
 ### 未分类
 
-+ [防止复活_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/bNLl0 "https://www.bilibili.com/video/BV1Py4y187iY")
-+ [Hololive死了_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/Vyn2T "https://www.bilibili.com/video/BV1JV411y76W")
++ [防止复活 - 哔哩哔哩](https://archive.is/bNLl0 "https://www.bilibili.com/video/BV1Py4y187iY")
++ [Hololive死了 - 哔哩哔哩](https://archive.is/Vyn2T "https://www.bilibili.com/video/BV1JV411y76W")
 + [hololive production - 维基百科，自由的百科全书](https://web.archive.org/web/20201023030302/https://zh.wikipedia.org/zh-hans/Hololive_production)
 + [为啥白皮还在开HLM的团 NGA玩家社区](https://archive.is/4cpcN "https://bbs.nga.cn/read.php?tid=23831911")
-+ [【虱记】hololive在中国是怎么凉的_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/02EHC "https://www.bilibili.com/video/bv1Ey4y1r72N")
++ [【虱记】hololive在中国是怎么凉的 - 哔哩哔哩](https://archive.is/02EHC "https://www.bilibili.com/video/bv1Ey4y1r72N")
 + [『9.25桐生可可炎上事件』相关事件个人记录（至10月04日） - 哔哩哔哩](https://archive.is/ZZZGV "https://www.bilibili.com/read/cv7853331")
 + [『9.25桐生可可炎上事件』相关个人记录 Part.2（10.05~10.10） - 哔哩哔哩](https://archive.is/nxZ4T "https://www.bilibili.com/read/cv7921642")
 + [『9.25桐生可可炎上事件』相关个人记录 Part.3（10.11~10.19） - 哔哩哔哩](https://archive.is/XUFFx "https://www.bilibili.com/read/cv8024680")

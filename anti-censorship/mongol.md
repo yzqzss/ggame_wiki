@@ -3,7 +3,7 @@ title: mongol
 description: Mongol.py is a tool that was inspired by a research paper[0] that described the physical location and number of routers acting for the Great Firewall (GFW) of China
 published: true
 date: 2021-07-28T07:01:07.862Z
-tags: 
+tags: GFW Github
 editor: markdown
 dateCreated: 2021-07-28T07:01:07.862Z
 ---

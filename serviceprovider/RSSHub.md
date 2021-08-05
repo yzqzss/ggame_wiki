@@ -3,7 +3,7 @@ title: RSSHub
 description: RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 published: true
 date: 2020-10-06T14:35:55.937Z
-tags: rss
+tags: RSS Github
 editor: markdown
 dateCreated: 2020-10-06T14:35:55.937Z
 ---

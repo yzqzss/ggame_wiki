@@ -19,5 +19,5 @@ dateCreated: 2021-04-06T15:24:01.386Z
 + [PDD斗鱼直播穿了辱华品牌衣服，被水友提醒，换了三...](https://web.archive.org/web/20210406114947/https://www.douban.com/group/topic/219200787/)
 + [PDD继衣服“辱华”后，身穿深V装遭超管警告，PDD怒了：我男的啊 - 游戏主播_网易订阅](https://archive.is/GfoHI "https://www.163.com/dy/article/G6TK0HLJ054676SG.html")
 + [PDD正玩游戏，观众一句“你衣服辱华了”，吓得PDD连换3次衣服！|pdd|英雄联盟|电竞|电竞圈|直播_网易订阅](https://archive.is/Hh3Ip "https://www.163.com/dy/article/G6TFMBHM054676SG.html")
-+ [当PDD得知衣服牌子辱华，5分钟连换4件要裂开了！【主播安排下】0401_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/ccfRf "https://www.bilibili.com/video/BV1BB4y1P7Mf")
-+ [当pdd得知自己穿的衣服辱华之后 立马换掉！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/OEfth "https://www.bilibili.com/video/BV1Wi4y1P7SB")
++ [当PDD得知衣服牌子辱华，5分钟连换4件要裂开了！【主播安排下】0401 - 哔哩哔哩](https://archive.is/ccfRf "https://www.bilibili.com/video/BV1BB4y1P7Mf")
++ [当pdd得知自己穿的衣服辱华之后 立马换掉！ - 哔哩哔哩](https://archive.is/OEfth "https://www.bilibili.com/video/BV1Wi4y1P7SB")

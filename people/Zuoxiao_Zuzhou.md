@@ -16,7 +16,7 @@ dateCreated: 2020-11-29T14:46:03.914Z
 
 [^20100430195800]: [杨波：左小祖咒在地安门 - 豆瓣小组](https://web.archive.org/web/20100430195800/http://www.douban.com/group/topic/1339479/)
 
-[^20201129142609]: [左小祖咒= Zuoxiao Zuzhou *-在地安门= At Di'Anmen（2001，CD）- Discogs](https://web.archive.org/web/20201129142609/https://www.discogs.com/%E5%B7%A6%E5%B0%8F%E7%A5%96%E5%92%92-Zuoxiao-Zuzhou-%E5%9C%A8%E5%9C%B0%E5%AE%89%E9%97%A8-At-Di-Anmen/release/10542937)
+[^20201129142609]: [左小祖咒= Zuoxiao Zuzhou \*-在地安门= At Di'Anmen（2001，CD）- Discogs](https://web.archive.org/web/20201129142609/https://www.discogs.com/%E5%B7%A6%E5%B0%8F%E7%A5%96%E5%92%92-Zuoxiao-Zuzhou-%E5%9C%A8%E5%9C%B0%E5%AE%89%E9%97%A8-At-Di-Anmen/release/10542937)
 
 <!--
 [新华书店原装正版 流行音乐 左小祖咒在地安门CD - - - 京东JD.COM](https://archive.is/wKDv4 "https://item.jd.com/10210110110.html")

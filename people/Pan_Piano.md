@@ -40,9 +40,9 @@ Pan Piano 在推特上发表了推文，可能数次提到了日台友好
 
 [如何看待B站up主panpiano所有视频下架？ - 知乎](https://web.archive.org/web/20201002135512/https://www.zhihu.com/question/420314777)
 
-[Panpiano视频被删除，网友拍手称：终于被删除了！_腾讯新闻](https://web.archive.org/web/20201002124907/https://new.qq.com/omn/20200913/20200913A00LK300.html)
+[Panpiano视频被删除，网友拍手称：终于被删除了！ - 腾讯新闻](https://web.archive.org/web/20201002124907/https://new.qq.com/omn/20200913/20200913A00LK300.html)
 
-[因涉嫌不当言论，B站钢琴区70万粉Up主删光稿件退站！_腾讯新闻](https://web.archive.org/web/20201002125013/https://new.qq.com/rain/a/20200911A0I4UN00)
+[因涉嫌不当言论，B站钢琴区70万粉Up主删光稿件退站！ - 腾讯新闻](https://web.archive.org/web/20201002125013/https://new.qq.com/rain/a/20200911A0I4UN00)
 
 <!--
 [Re: [閒聊] panpiano對岸開燒？ - c_chat | PTT動漫區](https://web.archive.org/web/20201002140033/https://pttcomic.com/c_chat/M.1590521275.A.460.html)

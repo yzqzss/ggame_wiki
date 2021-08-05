@@ -3,12 +3,12 @@ title: reddit
 description: 曾经超酷的先进论坛
 published: true
 date: 2021-01-05T14:17:15.654Z
-tags: 
+tags: 论坛 GFW
 editor: markdown
 dateCreated: 2021-01-05T14:17:15.654Z
 ---
 
-## 迟到的荣誉
+## 迟到的封禁
 
 2018年8月左右，reddit 在大陆遭到 DNS 污染。
 

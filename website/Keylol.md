@@ -39,7 +39,7 @@ dateCreated: 2020-10-10T09:09:02.162Z
 
 + [其乐社区 2020年9月18日0点 - 10月2日0点 社区维护通知 - 第3页 - 社区公告 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/HKVEx "https://keylol.com/t642768-3-1")
 + [Steam Community :: Group :: Keylol Player Club](https://web.archive.org/web/20200919034346/https://steamcommunity.com/groups/keylol-player-club/announcements/detail/2904215582014247749)
-+ [2款游戏限时免费领|F站19款游戏任选包3元多喜加一 其乐Keylol_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://archive.is/axcv4)
++ [2款游戏限时免费领|F站19款游戏任选包3元多喜加一 其乐Keylol - 哔哩哔哩](https://archive.is/axcv4)
 + [2020.09.18其乐早报：《奇异人生2》第一章全平台永久免费；HB新包上线，$12获全部内容 - 哔哩哔哩](https://archive.is/cdTbz)
 + [2020.09.17其乐午报：3DS系列掌机正式停产；PS5港版主机及首发游戏售价公布 - 哔哩哔哩](https://archive.is/XCC1R)
 + [2020.09.18其乐午报：《全面战争传奇：特洛伊 - 亚马逊人》将开启为期两周的免费领取 - 哔哩哔哩](https://archive.is/plhsB)

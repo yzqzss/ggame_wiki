@@ -38,4 +38,4 @@ dateCreated: 2021-03-18T10:32:32.947Z
 源码
 ----
 
-[这里](https://github.com/gledos/ggame_wiki)可以查看到所有的条目的 Markdown Raw 文本。
+[这里](https://github.com/gledos/ggame_wiki) 可以查看到所有的条目的 Markdown Raw 文件。
