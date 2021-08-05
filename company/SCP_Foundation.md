@@ -23,7 +23,7 @@ dateCreated: 2021-05-01T15:38:17.850Z
 + [北京文化执法队清理查处 SCP 等“儿童邪典” - 来自游研社](https://web.archive.org/web/20210501140735/https://www.yystv.cn/n/945898)
 + [北京严查“儿童邪典”视频 7家违规平台被罚11万元 - 新京报](https://archive.is/eKkuA "https://www.bjnews.com.cn/detail/161943951315726.html")
 + [北京清理“儿童邪典”违规视频33789个 处罚违规平台7家 - 新华网](https://archive.is/M41c8 "https://web.archive.org/web/20210501142204/http://www.xinhuanet.com/culture/2021-04/27/c_1127379539.htm")
-+ [#北京清理儿童邪典违规视频33789个# 京报... 来自北京日报 - 微博](https://archive.is/YQ1o7 "https://weibo.com/1893892941/KcRHBbtQ9")
++ [\#北京清理儿童邪典违规视频33789个# 京报... 来自北京日报 - 微博](https://archive.is/YQ1o7 "https://weibo.com/1893892941/KcRHBbtQ9")
 + [严查儿童邪典！包括“SCP系列”在内的3万+视频被清除 - 手谈姬 - 风闻](https://archive.is/dQi2t "https://user.guancha.cn/main/content?id=503353&s=fwtjgzwz")
 + [北京开展“儿童邪典”视频清理工作 共下架3万多部 - 新闻八卦 - 我爱卡论坛](https://web.archive.org/web/20210501145306/https://bbs.51credit.com/thread-6624199-1-1.html)
 + [“儿童邪典”视频专项查处和治理工作见成效 删除超3万个违规视频 - 游民星空](https://archive.is/0PC5Y "https://web.archive.org/web/20210501140815/https://www.gamersky.com/news/202104/1383460.shtml")

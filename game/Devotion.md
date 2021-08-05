@@ -19,9 +19,9 @@ dateCreated: 2021-04-22T12:22:03.971Z
 
 2020年12月16日的早些时候，赤柱游戏在推特[^20201216125845]、Facebook与plurk[^20201216155429]都公布了游戏会上GOG平台的预告
 
-[^20201216125845]: [redcandlegames on Twitter: "Hello friends, we want to share with you– Red Candle will publish #還願Devotion on Dec 18 on GOG. https://t.co/dlC6qzBiHx The content and the price of the re-release remains the same, for $16.99 / €13.99 Thank you for your trust and support. We wish you a happy end of the year… https://t.co/BhwLu4s61b"](https://web.archive.org/web/20201216125845/https://twitter.com/redcandlegames/status/1339148313032060929)
+[^20201216125845]: [redcandlegames on Twitter: "Hello friends, we want to share with you– Red Candle will publish \#還願Devotion on Dec 18 on GOG. https://t.co/dlC6qzBiHx The content and the price of the re-release remains the same, for $16.99 / €13.99 Thank you for your trust and support. We wish you a happy end of the year… https://t.co/BhwLu4s61b"](https://web.archive.org/web/20201216125845/https://twitter.com/redcandlegames/status/1339148313032060929)
 
-[^20201216155429]: [RedCandleGames - https://youtu.be/...大家好，我們是赤燭。團隊的第二款作品 #還願Devotion 即將於12/18於GOG平台重新上市。Devotion本次上市為赤燭遊戲獨立發行，內容與價格不變，售價新台幣499元、美金16.99，支援中/日/韓/英語系。謝謝玩家朋友們給予的信任與支持，也預祝大家年末愉快。 - Plurk](https://web.archive.org/web/20201216155429/https://www.plurk.com/p/o4yujz)
+[^20201216155429]: [RedCandleGames - https://youtu.be/...大家好，我們是赤燭。團隊的第二款作品 \#還願Devotion 即將於12/18於GOG平台重新上市。Devotion本次上市為赤燭遊戲獨立發行，內容與價格不變，售價新台幣499元、美金16.99，支援中/日/韓/英語系。謝謝玩家朋友們給予的信任與支持，也預祝大家年末愉快。 - Plurk](https://web.archive.org/web/20201216155429/https://www.plurk.com/p/o4yujz)
 
 然后 GOG 微博出了些事，GOG发了一条微博，之后又删除了该消息
 
