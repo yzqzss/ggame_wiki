@@ -3,7 +3,9 @@ title: Feedly
 description: 一个RSS聚合器应用程序
 published: true
 date: 2020-10-06T15:03:32.007Z
-tags: RSS GFW
+tags:
+- RSS
+- GFW
 editor: markdown
 dateCreated: 2020-10-06T14:59:10.299Z
 ---

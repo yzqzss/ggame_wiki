@@ -3,7 +3,9 @@ title: Inoreader
 description: Inoreader是一款基于网络内容和云服务的RSS聚合器
 published: true
 date: 2020-10-06T15:50:32.124Z
-tags: RSS GFW
+tags:
+- RSS
+- GFW
 editor: markdown
 dateCreated: 2020-10-06T15:23:57.178Z
 ---

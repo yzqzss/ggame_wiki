@@ -3,7 +3,9 @@ title: reddit
 description: 曾经超酷的先进论坛
 published: true
 date: 2021-01-05T14:17:15.654Z
-tags: 论坛 GFW
+tags: 
+- 论坛
+- GFW
 editor: markdown
 dateCreated: 2021-01-05T14:17:15.654Z
 ---
